@@ -18,7 +18,7 @@ Documentação do Projeto - Grupo 4 - IRIDIUM
 - [SPRINT](https://github.com/Iridium-FATEC/PI---V-Maria-Felix/files/6087243/sprint.docx)
 - [PROTOTIPO INICIAL DO SITE](https://github.com/Iridium-FATEC/PI-IRIDIUM/files/6087770/SITE_CODIGOS.gz)
 - [SOBRE A ONG - DADOS - OBSERVACOES GERAIS](https://github.com/Iridium-FATEC/PI-IRIDIUM/files/6087795/SOBRE.A.ONG.-.DADOS.-.OBSERVACOES.docx)
-- [~~LINK DO SITE~~ AINDA NAO ATIVO](https://www.ongvomariafelix.eu.org)
+- [LINK DO SITE _AINDA NAO ATIVO_](https://www.ongvomariafelix.eu.org)
 
 
 
