@@ -15,7 +15,7 @@ Documentação do Projeto - Grupo 4 - IRIDIUM
 - [BURNDOWN](https://github.com/Iridium-FATEC/PI-IRIDIUM/files/6087748/Burndown.Iridium.xlsx)
 - [RECURSOS E METODOLOGIA](https://github.com/Iridium-FATEC/PI-IRIDIUM/files/6087693/RECURSOS.E.METODOLOGIA.docx)
 - [SPRINT](https://github.com/Iridium-FATEC/PI---V-Maria-Felix/files/6087243/sprint.docx)
-- [PROTOTIPO INICIAL DO SITE.gz](https://github.com/Iridium-FATEC/PI-IRIDIUM/files/6087770/SITE_CODIGOS.gz)
+- [PROTOTIPO INICIAL DO SITE](https://github.com/Iridium-FATEC/PI-IRIDIUM/files/6087770/SITE_CODIGOS.gz)
 - [SOBRE A ONG - DADOS - OBSERVACOES GERAIS](https://github.com/Iridium-FATEC/PI-IRIDIUM/files/6087795/SOBRE.A.ONG.-.DADOS.-.OBSERVACOES.docx)
 
 
