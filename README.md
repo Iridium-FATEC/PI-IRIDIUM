@@ -1,5 +1,5 @@
 # Projeto Integrador - GRUPO 4  IRIDIUM - FATEC - ONG Vo Maria Felix
-Documentação do Projeto - Grupo 4 - IRIDIUM
+![Ir](https://user-images.githubusercontent.com/80074680/111557949-80ad7080-876c-11eb-87be-42944f5a3d22.png)
 
 **DISCIPLINAS:**
 > LABORATÓRIO DE HARDWARE / PROGRAMAÇÃO EM MICROINFORMÁTICA
