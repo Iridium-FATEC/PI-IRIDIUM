@@ -4,7 +4,7 @@
 - [DISCIPLINAS](#Disciplinas)
 - [EQUIPE](#Equipe)
 - [O PROJETO](#O-Projeto)
-- [OBJETIVO](https://github.com/Iridium-FATEC/PI---V-Maria-Felix/files/6087364/OBJETIVO.docx)
+- [OBJETIVO](#Objetivo)
 - [REQUISITOS DO SITE E DIVISÃO DA EQUIPE](https://github.com/Iridium-FATEC/PI-IRIDIUM/files/6087479/REQUISITOS.DO.SITE.E.DIVISAO.DA.EQUIPE.docx)
 - [PRODUCT BACKLOG](https://github.com/Iridium-FATEC/PI-IRIDIUM/files/6087606/PRODUCT.BACKLOG.docx)
 - [STORY POINTS](https://github.com/Iridium-FATEC/PI-IRIDIUM/files/6087822/story.points.docx)
@@ -28,3 +28,9 @@ Com essa modalidade de interação via internet, instituições como organizaç�
 Visto que uma ONG não tem fins lucrativos e realiza ações solidarias que são de grande valor para a sociedade é de extrema importância que as informações sejam divulgadas abertamente em sites bem estruturados. 
 > Visite o nosso site: https://www.figma.com/file/reOnZxAVKGjLkEKW7WkVbG/Untitled?node-id=0%3A1 **(Em desenvolvimento)**
 
+## Objetivo
+- O objetivo do projeto é:
+- Oferecer um site com uma boa estruturação e de fácil operação para os usuários.
+- Divulgar o trabalho da ONG de forma mais efetiva.
+- Buscar maior visibilidade para a instituição.
+- Atrair voluntários, projetos e doações.
