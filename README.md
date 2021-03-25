@@ -1,13 +1,10 @@
-# Projeto Integrador - GRUPO 4  IRIDIUM - FATEC - ONG Vo Maria Felix
+## Projeto Integrador - GRUPO 4  IRIDIUM - FATEC - ONG Vo Maria Felix
 ![Ir](https://user-images.githubusercontent.com/80074680/111557949-80ad7080-876c-11eb-87be-42944f5a3d22.png)
 
-**DISCIPLINAS:**
-> LABORATÓRIO DE HARDWARE / PROGRAMAÇÃO EM MICROINFORMÁTICA
+## NESTE PROJETO
 
-**EQUIPE FORMADA POR:**
-> Luiz Habaeb, Luis Souza, Julia Barroso (MASTER), Fabiano Silva, Dante Silva, Bruno Araujo e Renato Dutra
-
-
+- [DISCIPLINAS](#Disciplinas)
+- [EQUIPE](#Equipe)
 - [O PROJETO](https://github.com/Iridium-FATEC/PI---V-Maria-Felix/files/6087335/O.PROJETO.docx)
 - [OBJETIVO](https://github.com/Iridium-FATEC/PI---V-Maria-Felix/files/6087364/OBJETIVO.docx)
 - [REQUISITOS DO SITE E DIVISÃO DA EQUIPE](https://github.com/Iridium-FATEC/PI-IRIDIUM/files/6087479/REQUISITOS.DO.SITE.E.DIVISAO.DA.EQUIPE.docx)
@@ -20,5 +17,10 @@
 - [SOBRE A ONG - DADOS - OBSERVACOES GERAIS](https://github.com/Iridium-FATEC/PI-IRIDIUM/files/6087795/SOBRE.A.ONG.-.DADOS.-.OBSERVACOES.docx)
 - [LINK DO SITE _AINDA NAO ATIVO_](https://www.ongvomariafelix.eu.org)
 
+## Disciplinas
+- LABORATÓRIO DE HARDWARE / PROGRAMAÇÃO EM MICROINFORMÁTICA
+
+## Equipe
+- Luiz Habaeb, Luis Souza, Julia Barroso (MASTER), Fabiano Silva, Dante Silva, Bruno Araujo e Renato Dutra
 
 
