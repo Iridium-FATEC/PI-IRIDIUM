@@ -1,8 +1,6 @@
 ## Projeto Integrador - GRUPO 4  IRIDIUM - FATEC - ONG Vo Maria Felix
 ![Ir](https://user-images.githubusercontent.com/80074680/111557949-80ad7080-876c-11eb-87be-42944f5a3d22.png)
-
 ## NESTE PROJETO
-
 - [DISCIPLINAS](#Disciplinas)
 - [EQUIPE](#Equipe)
 - [O PROJETO](https://github.com/Iridium-FATEC/PI---V-Maria-Felix/files/6087335/O.PROJETO.docx)
