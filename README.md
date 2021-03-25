@@ -29,7 +29,6 @@ Visto que uma ONG não tem fins lucrativos e realiza ações solidarias que são
 > Visite o nosso site: https://www.figma.com/file/reOnZxAVKGjLkEKW7WkVbG/Untitled?node-id=0%3A1 **(Em desenvolvimento)**
 
 ## Objetivo
-O objetivo do projeto é:
 - Oferecer um site com uma boa estruturação e de fácil operação para os usuários.
 - Divulgar o trabalho da ONG de forma mais efetiva.
 - Buscar maior visibilidade para a instituição.
