@@ -14,28 +14,30 @@
 </head>
 <body>
     <nav>
-        <form>
-            <h1>Cadastro de Projetos</h1>
+        <form id="CadastroP" method="POST" action="mailto:luisttine@gmail.com">
+            <div>
+                <h1 >Cadastro de Projetos</h1> 
+            </div>
             <fieldset id="Projeto">
-                <p>E-mail do voluntário <input type="text" name="tEmail" id="cEmail" placeholder="exemple@tal.com"/></p>
-                <p>Nome do Voluntário: <input type="text" name="tVoluntario" id="cVoluntario" placeholder="Exemplo De Tal"/></p>
-                <p>Nome do projeto: <input type="text" name="tProjeto" id="cProjeto" placeholder="Exemplo de tal"/></p>
-                <p>Tipo de ensino: <input type="text" name="tEnsino" id="cEnsino" placeholder="Educação Física"/></p>
-                <fieldset>
-                    <legend>Recursos necessarios para execução do projeto:</legend>
-                    -(Possibilidade de proveitamento de estrutura da ong
-                    -outro local Cedido pelo voluntário).
-                </fieldset>
-                <fieldset>
-                    <legend>Necessidade de  meio de transporte:</legend>
-                    -Não necessário por ser proximo
-                    -não necessario por usar a estrutura da ONG  
-                    -em casos de necessidade de transporte explicar como funcionará)
-                    <legend>Anexo documentação de esquema de implantação do projeto</legend>
-                </fieldset>
+                <legend><h3>Informações do voluntário:</h3></legend>
+                <p><label for="cEmail">E-mail do voluntário </label><input type="email" name="tEmail" id="cEmail" placeholder="exemple@tal.com"/></p>
+                <p><label for="cVoluntario">Nome do Voluntário: </label><input type="text" name="tVoluntario" id="cVoluntario" placeholder="Exemplo De Tal"/></p>
+                <p><label for="cProjeto">Nome do projeto: </label><input type="text" name="tProjeto" id="cProjeto" placeholder="Exemplo de tal"/></p>
+                <p><label for="cEnsino">Tipo de ensino/atividade: </label><input type="text" name="tEnsino" id="cEnsino" placeholder="Educação Física"/></p>
             </fieldset>
+            <fieldset>
+                <legend>Recursos necessarios para execução do projeto:</legend>
+                <p><input type="radio" name="tRecursos" id="cOng"><label for="cOng"> Possibilidade de proveitamento de estrutura da ong.</label></p>
+                <p><input type="radio" name="tRecursos" id="cCedido"><label for="cCedido"> Outro local Cedido pelo voluntário.</label></p>
+                <legend>Necessidade de  meio de transporte:</legend>
+                <p><input type="radio" name="tTransporte" id="cProximo"><label for="cProximo"> Não necessário por ser proximo</label></p>
+                <p><input type="radio" name="tTransporte" id="cEstrutura" ><label for="cEstrutura"> Não necessario por usar a estrutura da ONG</label></p>  
+                <p><input type="radio" name="tTransporte" id="cNecessidade" ><label for="cNecessidade"> Em casos de necessidade de transporte explicar como funcionará na caixa de texto abaixo</label></p>
+                <textarea name="tMsg" id="cMsg" cols="45" rows="5" placeholder="Digite aqui as especificações de transporte para sua futura turminha"></textarea>
+                <p>Anexo documentação de esquema de implantação do projeto</p>
+            </fieldset>
+            <input type="button" value="TesteCadastro" id="tCadastro" onclick="CadastroP"> 
         </form>
-        
     </nav>
     
 </body>
