@@ -9,7 +9,7 @@
 - [PRODUCT BACKLOG](#Product-Backlog)
 - [BURNDOWN](#Burndown)
 - [RECURSOS E METODOLOGIA](https://github.com/Iridium-FATEC/PI-IRIDIUM/files/6087693/RECURSOS.E.METODOLOGIA.docx)
-- [SPRINT](https://github.com/Iridium-FATEC/PI---V-Maria-Felix/files/6087243/sprint.docx)
+- [SPRINT](#Sprint)
 - [PROTOTIPO INICIAL DO SITE](https://github.com/Iridium-FATEC/PI-IRIDIUM/files/6087770/SITE_CODIGOS.gz)
 - [SOBRE A ONG - DADOS - OBSERVACOES GERAIS](https://github.com/Iridium-FATEC/PI-IRIDIUM/files/6087795/SOBRE.A.ONG.-.DADOS.-.OBSERVACOES.docx)
 - [LINK DO SITE _AINDA NAO ATIVO_](https://www.ongvomariafelix.eu.org)
@@ -47,6 +47,12 @@ Visto que uma ONG não tem fins lucrativos e realiza ações solidarias que são
 ![BACKLOG 2703](https://user-images.githubusercontent.com/80074680/112738997-c0cbda80-8f46-11eb-9e87-f412f27a272f.PNG)
 
 ## Burndown
-!![burndown](https://user-images.githubusercontent.com/80074680/112739118-fb824280-8f47-11eb-8dac-b3ef6a4dd92f.PNG)
+![burndown](https://user-images.githubusercontent.com/80074680/112739118-fb824280-8f47-11eb-8dac-b3ef6a4dd92f.PNG)
+> Para ter acesso ao arquivo completo: [API-Burndown oficial.xlsx](https://github.com/Iridium-FATEC/PI-IRIDIUM/files/6216695/API-Burndown.oficial.xlsx)
+
+
+## Sprint
+![sprint 1](https://user-images.githubusercontent.com/80074680/112739291-8fa0d980-8f49-11eb-9861-ff448afa4371.PNG)
+
 
 
