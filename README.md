@@ -5,7 +5,7 @@
 - [EQUIPE](#Equipe)
 - [O PROJETO](#O-Projeto)
 - [OBJETIVO](#Objetivo)
-- [REQUISITOS DO SITE E DIVISÃO DA EQUIPE](https://github.com/Iridium-FATEC/PI-IRIDIUM/files/6087479/REQUISITOS.DO.SITE.E.DIVISAO.DA.EQUIPE.docx)
+- [REQUISITOS DO SITE E DIVISÃO DA EQUIPE](#Equipe-e-Divisão-da-Equipe))
 - [PRODUCT BACKLOG](https://github.com/Iridium-FATEC/PI-IRIDIUM/files/6087606/PRODUCT.BACKLOG.docx)
 - [STORY POINTS](https://github.com/Iridium-FATEC/PI-IRIDIUM/files/6087822/story.points.docx)
 - [BURNDOWN](https://github.com/Iridium-FATEC/PI-IRIDIUM/files/6087748/Burndown.Iridium.xlsx)
@@ -33,3 +33,9 @@ Visto que uma ONG não tem fins lucrativos e realiza ações solidarias que são
 - Divulgar o trabalho da ONG de forma mais efetiva.
 - Buscar maior visibilidade para a instituição.
 - Atrair voluntários, projetos e doações.
+
+## Equipe e Divisão da Equipe
+- Divisão: 
+Julia Barroso e Luiz Habaeb: DOCUMENTAÇÃO E GITHUB
+Luis Souza, Jonatas e Bruno: CÓDIGOS / DESENVOLVEDORES
+Renato, Bruno, Fabiano e Dante: DESIGN E ESTRUTURAÇÃO DO SITE
