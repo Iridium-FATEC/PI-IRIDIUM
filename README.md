@@ -51,6 +51,14 @@ Visto que uma ONG não tem fins lucrativos e realiza ações solidarias que são
 ![burndown](https://user-images.githubusercontent.com/80074680/112739118-fb824280-8f47-11eb-8dac-b3ef6a4dd92f.PNG)
 > Para ter acesso ao arquivo completo: https://github.com/Iridium-FATEC/PI-IRIDIUM/tree/main/Documentos/Burndown
 
+##Burndown
+- **Burndown da 1º Sprint: https://github.com/Iridium-FATEC/PI-IRIDIUM/tree/main/Documentos/Burndown/Burndown%201%20sprint
+- **Burndown da 2º Sprint:
+- **Burndown da 3º Sprint:
+- **Burndown da 4º Sprint:
+- **Pasta com todos: https://github.com/Iridium-FATEC/PI-IRIDIUM/tree/main/Documentos/Burndown
+
+
 ## Sprint
 - **Sprint 1:**
 - Levantamento de Requisitos
