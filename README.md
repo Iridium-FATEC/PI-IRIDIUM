@@ -6,7 +6,7 @@
 - [O PROJETO](#O-Projeto)
 - [OBJETIVO](#Objetivo)
 - [REQUISITOS DO SITE E DIVISÃO DA EQUIPE](#Requisitos-do-Site-e-Divisão-da-Equipe)
-- [PRODUCT BACKLOG](https://github.com/Iridium-FATEC/PI-IRIDIUM/files/6087606/PRODUCT.BACKLOG.docx)
+- [PRODUCT BACKLOG](#Product-Backlog)
 - [STORY POINTS](https://github.com/Iridium-FATEC/PI-IRIDIUM/files/6087822/story.points.docx)
 - [BURNDOWN](https://github.com/Iridium-FATEC/PI-IRIDIUM/files/6087748/Burndown.Iridium.xlsx)
 - [RECURSOS E METODOLOGIA](https://github.com/Iridium-FATEC/PI-IRIDIUM/files/6087693/RECURSOS.E.METODOLOGIA.docx)
@@ -43,3 +43,7 @@ Visto que uma ONG não tem fins lucrativos e realiza ações solidarias que são
 - **REQUISITOS DO SITE:**
 - Site intuitivo e de fácil operação contendo:
 - Uma opção **de fácil acesso** para cada item: CADASTRO DE VOLUNTÁRIOS, ALUNOS, PROJETOS E DOAÇÕES.
+
+## Product Backlog
+!![BACKLOG 2703](https://user-images.githubusercontent.com/80074680/112738997-c0cbda80-8f46-11eb-9e87-f412f27a272f.PNG)
+
