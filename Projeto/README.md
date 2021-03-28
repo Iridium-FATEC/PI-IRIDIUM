@@ -1,7 +1,4 @@
-# VoMariaFelix
-Temos um objetivo a cumprir com esses códigos
-
-## Detalhes do projeto
+# Detalhes do projeto
 
 - [HTML](#Html)
 - [CSS](#Css)
@@ -10,12 +7,17 @@ Temos um objetivo a cumprir com esses códigos
 
 ## Html
 
+
 ## Css
 
+
 # Páginas
+
 
 # Imagens
 
 
 
 
+# VoMariaFelix
+Temos um objetivo a cumprir com esses códigos
