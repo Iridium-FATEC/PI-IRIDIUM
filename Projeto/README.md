@@ -19,6 +19,6 @@
 
 ## Imagens
 
-- As imagens que estão sendo utilizadas no site, encontra-se aqui: https://github.com/Iridium-FATEC/PI-IRIDIUM/tree/main/Projeto/imagens
+- As imagens que estão sendo utilizadas no site, encontra-se aqui: https://github.com/Iridium-FATEC/PI-IRIDIUM/tree/main/Projeto/html/imagens
 
 
