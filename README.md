@@ -45,11 +45,6 @@ Visto que uma ONG não tem fins lucrativos e realiza ações solidarias que são
 ## Product Backlog
 ![BACKLOG 2703](https://user-images.githubusercontent.com/80074680/112738997-c0cbda80-8f46-11eb-9e87-f412f27a272f.PNG)
 
-## Burndown
-- Burndown da 1º Sprint:
-
-![burndown](https://user-images.githubusercontent.com/80074680/112739118-fb824280-8f47-11eb-8dac-b3ef6a4dd92f.PNG)
-> Para ter acesso ao arquivo completo: https://github.com/Iridium-FATEC/PI-IRIDIUM/tree/main/Documentos/Burndown
 
 ## Burndown
 - Burndown da 1º Sprint: https://github.com/Iridium-FATEC/PI-IRIDIUM/tree/main/Documentos/Burndown/Burndown%201%20sprint
