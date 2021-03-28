@@ -73,7 +73,7 @@ Visto que uma ONG não tem fins lucrativos e realiza ações solidarias que são
 
 ![gif1](https://user-images.githubusercontent.com/80074680/112739514-4e112e00-8f4b-11eb-859a-b8842e4a8305.gif)
 
-> Acesso aos GIFS de demonstração do protótipo: https://github.com/Iridium-FATEC/PI-IRIDIUM/tree/main/Documentos
+> Acesso aos GIFS de demonstração do protótipo: https://github.com/Iridium-FATEC/PI-IRIDIUM/tree/main/Projeto/P%C3%A1ginas
 
 
 
