@@ -47,6 +47,7 @@ Visto que uma ONG não tem fins lucrativos e realiza ações solidarias que são
 
 ## Burndown
 - Burndown da 1º Sprint:
+
 ![burndown](https://user-images.githubusercontent.com/80074680/112739118-fb824280-8f47-11eb-8dac-b3ef6a4dd92f.PNG)
 > Para ter acesso ao arquivo completo: https://fatecspgov-my.sharepoint.com/:x:/g/personal/julia_barroso_fatec_sp_gov_br/EYHqyjiKX-hHkoO4jLqvIGcB5IGQUXfihSVoMUD4Jctizw?e=rcEUlk 
 
