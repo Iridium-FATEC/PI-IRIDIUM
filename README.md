@@ -60,6 +60,7 @@ Visto que uma ONG não tem fins lucrativos e realiza ações solidarias que são
 
 ## Protótipo Inicial do Site
 - Página Inicial: 
+
 ![gif1](https://user-images.githubusercontent.com/80074680/112739514-4e112e00-8f4b-11eb-859a-b8842e4a8305.gif)
 - Página de Projeto:
 ![projetos](https://user-images.githubusercontent.com/80074680/112739560-93356000-8f4b-11eb-8bb1-2d9766276ca3.gif)
