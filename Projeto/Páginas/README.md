@@ -6,7 +6,7 @@
 
 ## Página Voluntario
 
-![Ir]()
+![Ir](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Projeto/P%C3%A1ginas/P%C3%A1gina%20voluntarios.gif)
 
 - Funcionamento de botões:
 
@@ -30,6 +30,14 @@
 ![Ir](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Projeto/P%C3%A1ginas/bot%C3%B5es%20de%20projeto%20e%20voltar.gif)
 
 ## Página Doe aqui
+
+![Ir]()
+
+- Funcionamento de botões:
+
+![Ir](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Projeto/P%C3%A1ginas/Bot%C3%B5es%20do%20doa%C3%A7%C3%B5es%20e%20voltar.gif)
+
+## Página Doação anonima
 
 ![Ir]()
 
