@@ -11,8 +11,7 @@
 - [RECURSOS E METODOLOGIA](https://github.com/Iridium-FATEC/PI-IRIDIUM/files/6087693/RECURSOS.E.METODOLOGIA.docx)
 - [SPRINT](#Sprint)
 - [PROTOTIPO INICIAL DO SITE](#Protótipo-Inicial-do-Site)
-- [SOBRE A ONG - DADOS - OBSERVACOES GERAIS](https://github.com/Iridium-FATEC/PI-IRIDIUM/files/6087795/SOBRE.A.ONG.-.DADOS.-.OBSERVACOES.docx)
-- [LINK DO SITE _AINDA NAO ATIVO_](https://www.ongvomariafelix.eu.org)
+
 
 ## Disciplinas
 - LABORATÓRIO DE HARDWARE / PROGRAMAÇÃO EM MICROINFORMÁTICA
