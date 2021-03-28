@@ -1,21 +1,21 @@
 # Detalhes do projeto
 
-- [PÁGINAS](#Páginas-do-site)
+- [PÁGINAS DO SITE](#Páginas-do-site)
 - [CSS](#Css)
 - [HTML](#Html)
 - [IMAGENS](#Imagens)
 
-## Páginas
+## Páginas do site
 
-- Para ver as paginas do projeto: https://github.com/Iridium-FATEC/PI-IRIDIUM/tree/main/Projeto/P%C3%A1ginas
+- As páginas que o site vai tem em gif: https://github.com/Iridium-FATEC/PI-IRIDIUM/tree/main/Projeto/P%C3%A1ginas
 
 ## Css
 
-- https://github.com/Iridium-FATEC/PI-IRIDIUM/tree/main/Projeto/css
+- Adiciona estilo ao documento, pode encontrar aqui: https://github.com/Iridium-FATEC/PI-IRIDIUM/tree/main/Projeto/css
 
 ## Html
 
-- https://github.com/Iridium-FATEC/PI-IRIDIUM/tree/main/Projeto/html
+- Linguagem de marcação de hipertexto, pode ser encontrado aqui: https://github.com/Iridium-FATEC/PI-IRIDIUM/tree/main/Projeto/html
 
 ## Imagens
 
