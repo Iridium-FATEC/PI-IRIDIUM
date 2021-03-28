@@ -1,17 +1,17 @@
 # Detalhes do projeto
 
-- [HTML](#Html)
-- [CSS](#Css)
 - [PÁGINAS](#Páginas)
+- [CSS](#Css)
+- [HTML](#Html)
 - [IMAGENS](#Imagens)
 
-## Html
+# Páginas
 
 
 ## Css
 
 
-# Páginas
+## Html
 
 
 # Imagens
@@ -19,5 +19,3 @@
 
 
 
-# VoMariaFelix
-Temos um objetivo a cumprir com esses códigos
