@@ -26,12 +26,11 @@
 
 - Funcionamento de botões:
 
-
 ![Ir](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Projeto/P%C3%A1ginas/bot%C3%B5es%20de%20projeto%20e%20voltar.gif)
 
 ## Página Doe aqui
 
-![Ir]()
+![Ir](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Projeto/P%C3%A1ginas/P%C3%A1gina%20doa%C3%A7%C3%B5es%20anonima.gif)
 
 - Funcionamento de botões:
 
@@ -39,11 +38,7 @@
 
 ## Página Doação anonima
 
-![Ir]()
-
-- Funcionamento de botões:
-
-![Ir]()
+![Ir](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Projeto/P%C3%A1ginas/P%C3%A1gina%20Doa%C3%A7%C3%B5es.gif)
 
 ## Página Ver mais
 
