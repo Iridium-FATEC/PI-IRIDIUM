@@ -1,7 +1,7 @@
 # Gif das paginas do site e alguns funcionamentos
 
 ## Página inicial/index
-
+![Ir](https://raw.githubusercontent.com/Iridium-FATEC/PI-IRIDIUM/main/Projeto/P%C3%A1ginas/pagina%20inicial.gif)
 - Funcionamento de botões:
 
 ## Página Voluntario
