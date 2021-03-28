@@ -57,7 +57,8 @@ Visto que uma ONG não tem fins lucrativos e realiza ações solidarias que são
 - Prototipagem de Páginas
 - Cadastro de botões endereçados
 - Documentação e conteúdo em texto
-> Arquivo completo da sprint: https://fatecspgov-my.sharepoint.com/:p:/g/personal/julia_barroso_fatec_sp_gov_br/EcDRLViz_XVHnFyZD-74ybUB7RLnLFEkffmPp0uQL6TKhw?e=jZCR7N
+> Arquivo completo da sprint: https://github.com/Iridium-FATEC/PI-IRIDIUM/tree/main/Documentos/sprints
+> 
 
 ## Protótipo Inicial do Site
 - Página Inicial: 
