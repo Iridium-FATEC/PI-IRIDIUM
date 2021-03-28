@@ -2,8 +2,8 @@
 
 - [HTML](#Html)
 - [CSS](#Css)
-- [PÁGINAS](Páginas)
-- [IMAGENS](Imagens)
+- [PÁGINAS](#Páginas)
+- [IMAGENS](#Imagens)
 
 ## Html
 
