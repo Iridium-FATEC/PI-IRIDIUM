@@ -61,17 +61,8 @@ Visto que uma ONG não tem fins lucrativos e realiza ações solidarias que são
 - Página Inicial: 
 
 ![gif1](https://user-images.githubusercontent.com/80074680/112739514-4e112e00-8f4b-11eb-859a-b8842e4a8305.gif)
-- Página de Projeto:
 
-![projetos](https://user-images.githubusercontent.com/80074680/112739560-93356000-8f4b-11eb-8bb1-2d9766276ca3.gif)
-- Página de Participantes:
-
-![participantes](https://user-images.githubusercontent.com/80074680/112739561-94668d00-8f4b-11eb-8993-f29f5f6643c6.gif)
-- Localização:
-
-![localiza](https://user-images.githubusercontent.com/80074680/112739571-afd19800-8f4b-11eb-88e5-bc46b2bef3e8.gif)
-
-
+> Acesso aos GIFS de demonstração do protótipo: https://github.com/Iridium-FATEC/PI-IRIDIUM/tree/main/Documentos
 
 
 
