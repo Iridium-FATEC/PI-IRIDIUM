@@ -7,7 +7,7 @@
 
 ## Páginas do site
 
-- As páginas que o site vai tem em gif: https://github.com/Iridium-FATEC/PI-IRIDIUM/tree/main/Projeto/P%C3%A1ginas
+- As páginas que o site tem em gif: https://github.com/Iridium-FATEC/PI-IRIDIUM/tree/main/Projeto/P%C3%A1ginas
 
 ## Css
 
