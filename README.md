@@ -40,4 +40,6 @@ Visto que uma ONG não tem fins lucrativos e realiza ações solidarias que são
 - Luis Souza, Jonatas e Bruno: CÓDIGOS / DESENVOLVEDORES
 - Renato, Bruno, Fabiano e Dante: DESIGN E ESTRUTURAÇÃO DO SITE
 
--
+- **REQUISITOS DO SITE:**
+- Site intuitivo e de fácil operação contendo:
+- Uma opção **de fácil acesso** para cada item: CADASTRO DE VOLUNTÁRIOS, ALUNOS, PROJETOS E DOAÇÕES.
