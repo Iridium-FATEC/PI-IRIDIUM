@@ -5,7 +5,9 @@
 ## Página Voluntario
 
 - Funcionamento de botões:
+-
 ![Ir](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Projeto/P%C3%A1ginas/bot%C3%B5es%20voluntario%20e%20voltar.gif)
+
 ## Página Participantes
 ![Ir](https://raw.githubusercontent.com/Iridium-FATEC/PI-IRIDIUM/main/Projeto/P%C3%A1ginas/pagina%20participantes.gif)
 - Funcionamento de botões:
