@@ -7,8 +7,7 @@
 - [OBJETIVO](#Objetivo)
 - [REQUISITOS DO SITE E DIVISÃO DA EQUIPE](#Requisitos-do-Site-e-Divisão-da-Equipe)
 - [PRODUCT BACKLOG](#Product-Backlog)
-- [STORY POINTS](https://github.com/Iridium-FATEC/PI-IRIDIUM/files/6087822/story.points.docx)
-- [BURNDOWN](https://github.com/Iridium-FATEC/PI-IRIDIUM/files/6087748/Burndown.Iridium.xlsx)
+- [BURNDOWN](#Burndown)
 - [RECURSOS E METODOLOGIA](https://github.com/Iridium-FATEC/PI-IRIDIUM/files/6087693/RECURSOS.E.METODOLOGIA.docx)
 - [SPRINT](https://github.com/Iridium-FATEC/PI---V-Maria-Felix/files/6087243/sprint.docx)
 - [PROTOTIPO INICIAL DO SITE](https://github.com/Iridium-FATEC/PI-IRIDIUM/files/6087770/SITE_CODIGOS.gz)
@@ -26,7 +25,7 @@ Este projeto visa realizar a boa estruturação de um site para a ONG Vó Maria 
 Um site é uma possibilidade de expor sua empresa, trabalho ou ideias na internet. É basicamente um conjunto de páginas estruturadas e armazenadas. Pode ser mais complexo do que se parece, pois para criação de um site usa-se códigos com comandos combinados bem específicos.  
 Com essa modalidade de interação via internet, instituições como organizações não governamentais (ONG’S), tem a possibilidade de divulgarem seus trabalhos, projetos e propósitos, atraindo mais voluntários e doações, assim, ampliando a capacidade de atuação. 
 Visto que uma ONG não tem fins lucrativos e realiza ações solidarias que são de grande valor para a sociedade é de extrema importância que as informações sejam divulgadas abertamente em sites bem estruturados. 
-> Visite o nosso site: https://www.figma.com/file/reOnZxAVKGjLkEKW7WkVbG/Untitled?node-id=0%3A1 **(Em desenvolvimento)**
+> Visite o nosso protótipo: https://www.figma.com/file/reOnZxAVKGjLkEKW7WkVbG/Untitled?node-id=0%3A1 **(Em desenvolvimento)**
 
 ## Objetivo
 - Oferecer um site com uma boa estruturação e de fácil operação para os usuários.
@@ -45,5 +44,9 @@ Visto que uma ONG não tem fins lucrativos e realiza ações solidarias que são
 - Uma opção **de fácil acesso** para cada item: CADASTRO DE VOLUNTÁRIOS, ALUNOS, PROJETOS E DOAÇÕES.
 
 ## Product Backlog
-!![BACKLOG 2703](https://user-images.githubusercontent.com/80074680/112738997-c0cbda80-8f46-11eb-9e87-f412f27a272f.PNG)
+![BACKLOG 2703](https://user-images.githubusercontent.com/80074680/112738997-c0cbda80-8f46-11eb-9e87-f412f27a272f.PNG)
+
+## Burndown
+!![burndown](https://user-images.githubusercontent.com/80074680/112739118-fb824280-8f47-11eb-8dac-b3ef6a4dd92f.PNG)
+
 
