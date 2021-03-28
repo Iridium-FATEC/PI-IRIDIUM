@@ -36,6 +36,6 @@ Visto que uma ONG não tem fins lucrativos e realiza ações solidarias que são
 
 ## Equipe e Divisão da Equipe
 - Divisão: 
-Julia Barroso e Luiz Habaeb: DOCUMENTAÇÃO E GITHUB
-Luis Souza, Jonatas e Bruno: CÓDIGOS / DESENVOLVEDORES
-Renato, Bruno, Fabiano e Dante: DESIGN E ESTRUTURAÇÃO DO SITE
+> Julia Barroso e Luiz Habaeb: DOCUMENTAÇÃO E GITHUB
+> Luis Souza, Jonatas e Bruno: CÓDIGOS / DESENVOLVEDORES
+> Renato, Bruno, Fabiano e Dante: DESIGN E ESTRUTURAÇÃO DO SITE
