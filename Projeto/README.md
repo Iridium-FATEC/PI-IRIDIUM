@@ -11,7 +11,7 @@
 
 ## Css
 
-- Adiciona estilo ao documento, pode encontrar aqui: https://github.com/Iridium-FATEC/PI-IRIDIUM/tree/main/Projeto/css
+- Adiciona estilo ao documento, pode encontrar aqui: https://github.com/Iridium-FATEC/PI-IRIDIUM/tree/main/Projeto/html/css
 
 ## Html
 
