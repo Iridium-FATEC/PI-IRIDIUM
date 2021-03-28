@@ -59,7 +59,8 @@ Visto que uma ONG não tem fins lucrativos e realiza ações solidarias que são
 > Arquivo completo da sprint: https://fatecspgov-my.sharepoint.com/:p:/g/personal/julia_barroso_fatec_sp_gov_br/EcDRLViz_XVHnFyZD-74ybUB7RLnLFEkffmPp0uQL6TKhw?e=jZCR7N
 
 ## Protótipo Inicial do Site
-- Página Inicial: !![gif1](https://user-images.githubusercontent.com/80074680/112739514-4e112e00-8f4b-11eb-859a-b8842e4a8305.gif)
+- Página Inicial: 
+- ![gif1](https://user-images.githubusercontent.com/80074680/112739514-4e112e00-8f4b-11eb-859a-b8842e4a8305.gif)
 
 
 
