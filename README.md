@@ -10,7 +10,7 @@
 - [BURNDOWN](#Burndown)
 - [RECURSOS E METODOLOGIA](https://github.com/Iridium-FATEC/PI-IRIDIUM/files/6087693/RECURSOS.E.METODOLOGIA.docx)
 - [SPRINT](#Sprint)
-- [PROTOTIPO INICIAL DO SITE](https://github.com/Iridium-FATEC/PI-IRIDIUM/files/6087770/SITE_CODIGOS.gz)
+- [PROTOTIPO INICIAL DO SITE](#Protótipo-Inicial-do-Site)
 - [SOBRE A ONG - DADOS - OBSERVACOES GERAIS](https://github.com/Iridium-FATEC/PI-IRIDIUM/files/6087795/SOBRE.A.ONG.-.DADOS.-.OBSERVACOES.docx)
 - [LINK DO SITE _AINDA NAO ATIVO_](https://www.ongvomariafelix.eu.org)
 
@@ -48,11 +48,18 @@ Visto que uma ONG não tem fins lucrativos e realiza ações solidarias que são
 
 ## Burndown
 ![burndown](https://user-images.githubusercontent.com/80074680/112739118-fb824280-8f47-11eb-8dac-b3ef6a4dd92f.PNG)
-> Para ter acesso ao arquivo completo: [API-Burndown oficial.xlsx](https://github.com/Iridium-FATEC/PI-IRIDIUM/files/6216695/API-Burndown.oficial.xlsx)
-
+> Para ter acesso ao arquivo completo: https://fatecspgov-my.sharepoint.com/:x:/g/personal/julia_barroso_fatec_sp_gov_br/EYHqyjiKX-hHkoO4jLqvIGcB5IGQUXfihSVoMUD4Jctizw?e=rcEUlk 
 
 ## Sprint
-![sprint 1](https://user-images.githubusercontent.com/80074680/112739291-8fa0d980-8f49-11eb-9861-ff448afa4371.PNG)
+- **Sprint 1:**
+- Levantamento de Requisitos
+- Prototipagem de Páginas
+- Cadastro de botões endereçados
+- Documentação e conteúdo em texto
+> Arquivo completo da sprint: https://fatecspgov-my.sharepoint.com/:p:/g/personal/julia_barroso_fatec_sp_gov_br/EcDRLViz_XVHnFyZD-74ybUB7RLnLFEkffmPp0uQL6TKhw?e=jZCR7N
+
+## Protótipo Inicial do Site
+- Página Inicial: !![gif1](https://user-images.githubusercontent.com/80074680/112739514-4e112e00-8f4b-11eb-859a-b8842e4a8305.gif)
 
 
 
