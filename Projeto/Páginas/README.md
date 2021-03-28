@@ -3,9 +3,9 @@
 ## Página inicial/index
 ![Ir](https://raw.githubusercontent.com/Iridium-FATEC/PI-IRIDIUM/main/Projeto/P%C3%A1ginas/pagina%20inicial.gif)
 ## Página Voluntario
-![Ir]()
+
 - Funcionamento de botões:
-![Ir]()
+
 ## Página Participantes
 ![Ir](https://raw.githubusercontent.com/Iridium-FATEC/PI-IRIDIUM/main/Projeto/P%C3%A1ginas/pagina%20participantes.gif)
 - Funcionamento de botões:
@@ -15,9 +15,9 @@
 - Funcionamento de botões:
 ![Ir](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Projeto/P%C3%A1ginas/bot%C3%B5es%20de%20projeto%20e%20voltar.gif)
 ## Página Doe aqui
-![Ir]()
+
 - Funcionamento de botões:
-![Ir]()
+
 ## Página Ver mais
 ![Ir](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Projeto/P%C3%A1ginas/ver%20mais.png)
 - Funcionamento de botões:
