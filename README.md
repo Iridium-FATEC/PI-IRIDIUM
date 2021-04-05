@@ -61,7 +61,7 @@ Visto que uma ONG não tem fins lucrativos e realiza ações solidarias que são
 - Cadastro de botões endereçados
 - Documentação e conteúdo em texto
 > Arquivo completo da sprint: https://github.com/Iridium-FATEC/PI-IRIDIUM/tree/main/Documentos/sprints
-> 
+
 
 ## Protótipo Inicial do Site
 - Página Inicial: 
