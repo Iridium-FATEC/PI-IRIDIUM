@@ -19,7 +19,7 @@
 ## Equipe
 - Luiz Habaeb: 
 - Luis Souza: [Linkedin](https://www.linkedin.com/in/lu%C3%ADs-souza),[Github](https://www.linkedin.com/in/lu%C3%ADs-souza)
-- Julia Barroso (MASTER):[Linkedin](https://www.linkedin.com/in/j%C3%BAlia-maria-santos),[Github](https://github.com/jumajubs)
+- Julia Barroso (MASTER):[Linkedin](https://www.linkedin.com/in/j%C3%BAlia-maria-santos850739188/),[Github](https://github.com/jumajubs)
 - Jonatas Dallo: 
 - Fabiano Silva: 
 - Dante Silva: 
