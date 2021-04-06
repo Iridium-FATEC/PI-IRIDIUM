@@ -17,7 +17,13 @@
 - LABORATÓRIO DE HARDWARE / PROGRAMAÇÃO EM MICROINFORMÁTICA
 
 ## Equipe
-- Luiz Habaeb, Luis Souza, Julia Barroso (MASTER), Jonatas Dallo, Fabiano Silva, Dante Silva, Bruno Araujo e Renato Dutra
+- Luiz Habaeb: 
+- Luis Souza: [https://www.linkedin.com/in/lu%C3%ADs-souza](Linkedin),[https://www.linkedin.com/in/lu%C3%ADs-souza](Github)
+- Julia Barroso (MASTER):[https://www.linkedin.com/in/j%C3%BAlia-maria-santos](Linkedin),[https://github.com/jumajubs](Github)
+- Jonatas Dallo: 
+- Fabiano Silva: 
+- Dante Silva: 
+- Bruno Araujo:
 
 ## O Projeto
 Este projeto visa realizar a boa estruturação de um site para a ONG Vó Maria Felix, divulgando seu trabalho, buscando mais visibilidade para a instituição e atraindo voluntários para a ampliação de atuação. 
