@@ -61,7 +61,7 @@ Visto que uma ONG não tem fins lucrativos e realiza ações solidarias que são
 
 
 ## Sprint
-![sprints](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Projeto/html/imagens/sprints.jpg)
+
 - **Sprint 1:**
 - Levantamento de Requisitos
 - Prototipagem de Páginas
