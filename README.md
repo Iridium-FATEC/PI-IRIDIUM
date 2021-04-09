@@ -49,7 +49,7 @@ Visto que uma ONG não tem fins lucrativos e realiza ações solidarias que são
 - Uma opção **de fácil acesso** para cada item: CADASTRO DE VOLUNTÁRIOS, ALUNOS, PROJETOS E DOAÇÕES.
 
 ## Product Backlog
-![BACKLOG 2703](https://user-images.githubusercontent.com/80074680/112738997-c0cbda80-8f46-11eb-9e87-f412f27a272f.PNG)
+
 ![Backlog](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Projeto/html/imagens/backlog%20oficial%20g.png)
 
 ## Burndown
