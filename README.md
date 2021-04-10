@@ -73,7 +73,7 @@ Visto que uma ONG não tem fins lucrativos e realiza ações solidarias que são
 > Arquivo completo da sprint:[Todas sprints] (https://github.com/Iridium-FATEC/PI-IRIDIUM/tree/main/Documentos/sprints)
 
 
-## Protótipo Inicial do Site [(Clique aqui para ver todos os gifs)](https://github.com/Iridium-FATEC/PI-IRIDIUM/tree/main/Projeto/P%C3%A1ginas)
+## Estruturação Inicial do Site [(Clique aqui para ver todos os gifs)](https://github.com/Iridium-FATEC/PI-IRIDIUM/tree/main/Projeto/P%C3%A1ginas)
 - Página Inicial: 
 
 ![gif1](https://user-images.githubusercontent.com/80074680/112739514-4e112e00-8f4b-11eb-859a-b8842e4a8305.gif)
