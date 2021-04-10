@@ -65,7 +65,7 @@ Visto que uma ONG não tem fins lucrativos e realiza ações solidarias que são
 - Pasta com todos: https://github.com/Iridium-FATEC/PI-IRIDIUM/tree/main/Documentos/Burndown
 
 
-## Sprint
+## Sprint:date:
 ![sprints](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Projeto/html/imagens/sprints%20g.png)
 
 - **Sprint 1:**
