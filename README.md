@@ -18,16 +18,16 @@
 
 ## Equipe
 - Luiz Habaeb:
-- [Linkedin]()|[Github](https://github.com/luizhabaeb)
+[Linkedin]()|[Github](https://github.com/luizhabaeb)
 - Luis Souza: 
-- [Linkedin](https://www.linkedin.com/in/lu%C3%ADs-souza)|[Github](https://www.linkedin.com/in/lu%C3%ADs-souza)
+[Linkedin](https://www.linkedin.com/in/lu%C3%ADs-souza)|[Github](https://www.linkedin.com/in/lu%C3%ADs-souza)
 - Julia Barroso (MASTER):
-- [Linkedin](https://www.linkedin.com/in/j%C3%BAlia-maria-santos-850739188/)|[Github](https://github.com/jumajubs)
+[Linkedin](https://www.linkedin.com/in/j%C3%BAlia-maria-santos-850739188/)|[Github](https://github.com/jumajubs)
 - Jonatas Dallo: 
 - Fabiano Silva:
-- [Linkedin](https://www.linkedin.com/in/fabiano-monteiro-604218203)|[Github](https://github.com/Fabiano-775) 
+[Linkedin](https://www.linkedin.com/in/fabiano-monteiro-604218203)|[Github](https://github.com/Fabiano-775) 
 - Dante Silva:
-- [Linkedin](https://www.linkedin.com/in/dante-silva-0a2a09a8/)|[Github]()
+[Linkedin](https://www.linkedin.com/in/dante-silva-0a2a09a8/)|[Github]()
 - Bruno Araujo:
 
 ## O Projeto
