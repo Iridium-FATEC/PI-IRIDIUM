@@ -57,7 +57,7 @@ Visto que uma ONG não tem fins lucrativos e realiza ações solidarias que são
 
 ![Backlog](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Projeto/html/imagens/backlog%20oficial%20g.png)
 
-## Burndown chart_with_downwards_trend:
+## Burndown :chart_with_downwards_trend:
 - Burndown da 1º Sprint: https://github.com/Iridium-FATEC/PI-IRIDIUM/tree/main/Documentos/Burndown/Burndown%201%20sprint
 - Burndown da 2º Sprint:
 - Burndown da 3º Sprint:
