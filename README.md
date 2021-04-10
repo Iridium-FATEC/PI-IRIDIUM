@@ -10,7 +10,7 @@
 - [BURNDOWN](#Burndown)
 - [RECURSOS E METODOLOGIA](https://github.com/Iridium-FATEC/PI-IRIDIUM/files/6087693/RECURSOS.E.METODOLOGIA.docx)
 - [SPRINT](#Sprint)
-- [PROTOTIPO INICIAL DO SITE](#Protótipo-Inicial-do-Site)
+- [ESTRUTURAÇÃO INICIAL DO SITE](#Estruturação-Inicial-do-Site)
 
 
 ## Disciplinas
@@ -51,17 +51,6 @@ Visto que uma ONG não tem fins lucrativos e realiza ações solidarias que são
 
 ![Backlog](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Projeto/html/imagens/backlog%20oficial%20g.png)
 
-## Burndown :chart_with_downwards_trend:
-- Burndown da 1º Sprint:[Imagens Burndown](https://github.com/Iridium-FATEC/PI-IRIDIUM/tree/main/Documentos/Burndown/Burndown%201%20sprint)
-
-![burndown](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Documentos/Burndown/Burndown%201%20sprint/Burndown%20gr%C3%A1fico.jpeg)
-
-- Burndown da 2º Sprint:
-- Burndown da 3º Sprint:
-- Burndown da 4º Sprint:
-- Pasta com todos: https://github.com/Iridium-FATEC/PI-IRIDIUM/tree/main/Documentos/Burndown
-
-
 ## Sprint:date:
 ![sprints](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Projeto/html/imagens/sprints%20g.png)
 
@@ -71,6 +60,17 @@ Visto que uma ONG não tem fins lucrativos e realiza ações solidarias que são
 - Cadastro de botões endereçados
 - Documentação e conteúdo em texto
 > Arquivo completo da sprint:[Todas sprints] (https://github.com/Iridium-FATEC/PI-IRIDIUM/tree/main/Documentos/sprints)
+
+
+## Burndown :chart_with_downwards_trend:
+- Burndown da 1º Sprint:[Imagens Burndown](https://github.com/Iridium-FATEC/PI-IRIDIUM/tree/main/Documentos/Burndown/Burndown%201%20sprint)
+
+![burndown](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Documentos/Burndown/Burndown%201%20sprint/Burndown%20gr%C3%A1fico.jpeg)
+
+- Burndown da 2º Sprint:
+- Burndown da 3º Sprint:
+- Burndown da 4º Sprint:
+- Pasta com todos: https://github.com/Iridium-FATEC/PI-IRIDIUM/tree/main/Documentos/Burndown
 
 
 ## Estruturação Inicial do Site [(Clique aqui para ver todos os gifs)](https://github.com/Iridium-FATEC/PI-IRIDIUM/tree/main/Projeto/P%C3%A1ginas)
