@@ -7,9 +7,9 @@
 - [OBJETIVO](#Objetivo)
 - [REQUISITOS DO SITE](#Requisitos-do-Site)
 - [PRODUCT BACKLOG](#Product-Backlog)
-- [BURNDOWN](#Burndown :chart_with_downwards_trend:)
+- [BURNDOWN](#Burndown-:chart_with_downwards_trend:)
 - [RECURSOS E METODOLOGIA](https://github.com/Iridium-FATEC/PI-IRIDIUM/files/6087693/RECURSOS.E.METODOLOGIA.docx)
-- [SPRINT](#Sprint :date:)
+- [SPRINT](#Sprint-:date:)
 - [ESTRUTURAÇÃO INICIAL DO SITE](#Estruturação-Inicial-do-Site)
 
 
