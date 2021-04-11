@@ -7,9 +7,9 @@
 - [OBJETIVO](#Objetivo)
 - [REQUISITOS DO SITE](#Requisitos-do-Site)
 - [PRODUCT BACKLOG](#Product-Backlog)
-- [BURNDOWN](#Burndown)
+- [BURNDOWN](#Burndown :chart_with_downwards_trend:)
 - [RECURSOS E METODOLOGIA](https://github.com/Iridium-FATEC/PI-IRIDIUM/files/6087693/RECURSOS.E.METODOLOGIA.docx)
-- [SPRINT](#Sprint)
+- [SPRINT](#Sprint :date:)
 - [ESTRUTURAÇÃO INICIAL DO SITE](#Estruturação-Inicial-do-Site)
 
 
@@ -51,7 +51,7 @@ Visto que uma ONG não tem fins lucrativos e realiza ações solidarias que são
 
 ![Backlog](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Projeto/html/imagens/backlog%20oficial%20g.png)
 
-## Sprint   *:date:*
+## Sprint :date:
 ![sprints](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Projeto/html/imagens/sprints%20g.png)
 
 - **Sprint 1:**
@@ -62,7 +62,7 @@ Visto que uma ONG não tem fins lucrativos e realiza ações solidarias que são
 > Arquivo completo da sprint:[Todas sprints] (https://github.com/Iridium-FATEC/PI-IRIDIUM/tree/main/Documentos/sprints)
 
 
-## Burndown   *:chart_with_downwards_trend:*
+## Burndown :chart_with_downwards_trend:
 - Burndown da 1º Sprint:[Imagens Burndown](https://github.com/Iridium-FATEC/PI-IRIDIUM/tree/main/Documentos/Burndown/Burndown%201%20sprint)
 
 ![burndown](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Documentos/Burndown/Burndown%201%20sprint/Burndown%20gr%C3%A1fico.jpeg)
