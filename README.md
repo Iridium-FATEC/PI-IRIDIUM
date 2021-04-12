@@ -24,7 +24,7 @@
 #### :mortar_board:Julia Barroso (MASTER):
 - [Linkedin](https://www.linkedin.com/in/j%C3%BAlia-maria-santos-850739188/)|[Github](https://github.com/jumajubs)
 #### :mortar_board:Jonatas Dallo:
--[Linkedin](https://www.linkedin.com/in/jonatas-dall%C3%B3-147638206/)|(Github)(https://github.com/Jonatas-Dallo)
+-[Linkedin](https://www.linkedin.com/in/jonatas-dall%C3%B3-147638206/)|[Github](https://github.com/Jonatas-Dallo)
 #### :mortar_board: Fabiano Silva:
 - [Linkedin](https://www.linkedin.com/in/fabiano-monteiro-604218203)|[Github](https://github.com/Fabiano-775) 
 #### :mortar_board:Dante Silva:
