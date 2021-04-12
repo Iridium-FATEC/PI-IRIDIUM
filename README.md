@@ -8,7 +8,7 @@
 - [REQUISITOS DO SITE](#Requisitos-do-Site)
 - [PRODUCT BACKLOG](#Product-Backlog)
 - [BURNDOWN](#Burndown)
-- [RECURSOS E METODOLOGIA](https://github.com/Iridium-FATEC/PI-IRIDIUM/files/6087693/RECURSOS.E.METODOLOGIA.docx)
+- [Tecnologias](#Tecnologias)
 - [SPRINT](#Sprint)
 - [ESTRUTURAÇÃO INICIAL DO SITE](#Estruturação-Inicial-do-Site)
 
@@ -67,6 +67,13 @@ Visto que uma ONG não tem fins lucrativos e realiza ações solidarias que são
 - Burndown da 3º Sprint:
 - Burndown da 4º Sprint:
 - Pasta com todos:chart_with_downwards_trend:: https://github.com/Iridium-FATEC/PI-IRIDIUM/tree/main/Documentos/Burndown
+
+## Tecnologias
+-[Visual Studio Code](https://code.visualstudio.com/download)
+-Html
+-Css
+-java Script
+-[Mysql](https://www.mysql.com/)
 
 
 ## Estruturação Inicial do Site 
