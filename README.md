@@ -17,18 +17,18 @@
 - LABORATÓRIO DE HARDWARE / PROGRAMAÇÃO EM MICROINFORMÁTICA
 
 ## Equipe
-#### :mortar_board: Luiz Habaeb:
-- [Linkedin]()|[Github](https://github.com/luizhabaeb)
-#### :mortar_board: Luis Souza: 
-- [Linkedin](https://www.linkedin.com/in/lu%C3%ADs-souza)|[Github](https://www.linkedin.com/in/lu%C3%ADs-souza)
-#### :mortar_board:Julia Barroso (MASTER):
-- [Linkedin](https://www.linkedin.com/in/j%C3%BAlia-maria-santos-850739188/)|[Github](https://github.com/jumajubs)
-#### :mortar_board:Jonatas Dallo:
--[Linkedin](https://www.linkedin.com/in/jonatas-dall%C3%B3-147638206/)|[Github](https://github.com/Jonatas-Dallo)
-#### :mortar_board: Fabiano Silva:
-- [Linkedin](https://www.linkedin.com/in/fabiano-monteiro-604218203)|[Github](https://github.com/Fabiano-775) 
-#### :mortar_board:Dante Silva:
-- [Linkedin](https://www.linkedin.com/in/dante-silva-0a2a09a8/)|[Github]()
+#### :mortar_board:Luiz Habaeb: [Linkedin]()|[Github](https://github.com/luizhabaeb)
+
+#### :mortar_board:Luis Souza:  [Linkedin](https://www.linkedin.com/in/lu%C3%ADs-souza)|[Github](https://www.linkedin.com/in/lu%C3%ADs-souza)
+
+#### :mortar_board:Julia Barroso (MASTER):- [Linkedin](https://www.linkedin.com/in/j%C3%BAlia-maria-santos-850739188/)|[Github](https://github.com/jumajubs)
+
+#### :mortar_board:Jonatas Dallo: [Linkedin](https://www.linkedin.com/in/jonatas-dall%C3%B3-147638206/)|[Github](https://github.com/Jonatas-Dallo)
+
+#### :mortar_board:Fabiano Silva: [Linkedin](https://www.linkedin.com/in/fabiano-monteiro-604218203)|[Github](https://github.com/Fabiano-775) 
+
+#### :mortar_board:Dante Silva: [Linkedin](https://www.linkedin.com/in/dante-silva-0a2a09a8/)|[Github]()
+
 #### :mortar_board:Bruno Araujo:
 
 ## O Projeto
