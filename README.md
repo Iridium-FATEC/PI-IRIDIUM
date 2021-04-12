@@ -70,9 +70,13 @@ Visto que uma ONG não tem fins lucrativos e realiza ações solidarias que são
 
 ## Tecnologias
 -[Visual Studio Code](https://code.visualstudio.com/download)
+
 -Html
+
 -Css
+
 -java Script
+
 -[Mysql](https://www.mysql.com/)
 
 
