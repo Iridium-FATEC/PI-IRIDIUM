@@ -8,7 +8,7 @@
 - [REQUISITOS DO SITE](#Requisitos-do-Site)
 - [PRODUCT BACKLOG](#Product-Backlog)
 - [BURNDOWN](#Burndown)
-- [Tecnologias](#Tecnologias)
+- [TECNOLOGIAS](#Tecnologias)
 - [SPRINT](#Sprint)
 - [ESTRUTURAÇÃO INICIAL DO SITE](#Estruturação-Inicial-do-Site)
 
