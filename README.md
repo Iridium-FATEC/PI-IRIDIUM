@@ -17,7 +17,7 @@
 - LABORATÓRIO DE HARDWARE / PROGRAMAÇÃO EM MICROINFORMÁTICA
 
 ## Equipe
-#### :mortar_board:Luiz Habaeb:   [Linkedin]()|[Github](https://github.com/luizhabaeb)
+#### :mortar_board:Luiz Habaeb:   [Linkedin]( https://www.linkedin.com/in/luiz-habaeb-64a250113/)|[Github](https://github.com/luizhabaeb)
 
 #### :mortar_board:Luis Souza:    [Linkedin](https://www.linkedin.com/in/lu%C3%ADs-souza)|[Github](https://www.linkedin.com/in/lu%C3%ADs-souza)
 
@@ -27,7 +27,7 @@
 
 #### :mortar_board:Fabiano Silva: [Linkedin](https://www.linkedin.com/in/fabiano-monteiro-604218203)|[Github](https://github.com/Fabiano-775) 
 
-#### :mortar_board:Dante Silva:   [Linkedin](https://www.linkedin.com/in/dante-silva-0a2a09a8/)|[Github]()
+#### :mortar_board:Dante Silva:   [Linkedin](https://www.linkedin.com/in/dante-silva-0a2a09a8/)|[Github](https://github.com/dantesjc)
 
 #### :mortar_board:Bruno Araujo:  [Linkedin](https://www.linkedin.com/in/bruno-ara%C3%BAjo-5a8702208/)|[Github](https://github.com/dimorais1)
 
