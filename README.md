@@ -53,7 +53,7 @@ Visto que uma ONG não tem fins lucrativos e realiza ações solidarias que são
 ![Backlog](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Documentos/Backlog%20total.jpeg)
 
 ## Sprint
-![sprints](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Projeto/html/imagens/sprints%20g.png)
+![sprints](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Documentos/SprintBacklog.jpeg)
 
 > Arquivo completo da sprint:[Todas sprints] (https://github.com/Iridium-FATEC/PI-IRIDIUM/tree/main/Documentos/sprints)
 
@@ -70,13 +70,10 @@ Visto que uma ONG não tem fins lucrativos e realiza ações solidarias que são
 
 ## Tecnologias
 -[Visual Studio Code](https://code.visualstudio.com/download)
-
 -Html
-
 -Css
-
+-Php
 -java Script
-
 -[Mysql](https://www.mysql.com/)
 
 
