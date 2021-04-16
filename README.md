@@ -50,7 +50,7 @@ Visto que uma ONG não tem fins lucrativos e realiza ações solidarias que são
 
 ## Product Backlog
 
-![Backlog](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Projeto/html/imagens/backlog%20oficial%20g.png)
+![Backlog](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Documentos/Backlog%20total.jpeg)
 
 ## Sprint
 ![sprints](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Projeto/html/imagens/sprints%20g.png)
