@@ -29,8 +29,6 @@
 
 #### :mortar_board:Dante Silva:   [Linkedin](https://www.linkedin.com/in/dante-silva-0a2a09a8/)|[Github](https://github.com/dantesjc)
 
-#### :mortar_board:Bruno Araujo:  [Linkedin](https://www.linkedin.com/in/bruno-ara%C3%BAjo-5a8702208/)|[Github](https://github.com/dimorais1)
-
 ## O Projeto
 Este projeto visa realizar a boa estruturação de um site para a ONG Vó Maria Felix, divulgando seu trabalho, buscando mais visibilidade para a instituição e atraindo voluntários para a ampliação de atuação. 
 Um site é uma possibilidade de expor sua empresa, trabalho ou ideias na internet. É basicamente um conjunto de páginas estruturadas e armazenadas. Pode ser mais complexo do que se parece, pois para criação de um site usa-se códigos com comandos combinados bem específicos.  
