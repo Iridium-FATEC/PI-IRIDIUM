@@ -1,3 +1,5 @@
+## informação completa do projeto: (referencia projeto_descricao.md)
+
 ## Instrução para rodar o projeto
 
 Procedimento para Windows
@@ -21,7 +23,7 @@ Procedimento para Windows
 
 7 - colocar na aba de pesquisa do navegador http://localhost/PI-IRIDIUM/Projeto/html/index.HTML
 
-## informação completa do projeto: (referencia projeto_descricao.md)
+
 
 
 
