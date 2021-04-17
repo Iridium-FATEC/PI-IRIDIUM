@@ -100,5 +100,5 @@
 
 ## Informação sendo enviada para o banco de dados
 
-"[Ir](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Projeto/P%C3%A1ginas_gifs/info%20pro%20banco.gif)
+![Ir](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Projeto/P%C3%A1ginas_gifs/info%20pro%20banco.gif)
 
