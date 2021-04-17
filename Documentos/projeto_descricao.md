@@ -84,11 +84,36 @@ Visto que uma ONG não tem fins lucrativos e realiza ações solidarias que são
 
 
 ## Estruturação Inicial do Site 
+
 ### [(Clique aqui para ver todos os gifs)](https://github.com/Iridium-FATEC/PI-IRIDIUM/tree/main/Projeto/P%C3%A1ginas)
-- Página Inicial: 
+
+- Página Inicial 1 sprint: 
+
 
 ![gif1](https://user-images.githubusercontent.com/80074680/112739514-4e112e00-8f4b-11eb-859a-b8842e4a8305.gif)
 
 
+- Página inicial 2 sprint:
+
+
+![gif1](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Projeto/P%C3%A1ginas_gifs/index%20sprint%202.gif)
+
+
+- banco de dados inicial para receber e enviar informações a pagina de administração do site(admin):
+
+
+![gif1](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Projeto/P%C3%A1ginas_gifs/banco%20de%20dados.gif)
+
+
+- protótipo inicial figma:
+
+
+![gif1](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Projeto/P%C3%A1ginas_gifs/prototipo_figma.gif)
+
+
+- protótipo melhorado wix:
+
+
+![gif1](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Projeto/P%C3%A1ginas_gifs/prototito_wix.gif)
 
 
