@@ -99,7 +99,7 @@ Visto que uma ONG não tem fins lucrativos e realiza ações solidarias que são
 ![gif1](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Projeto/P%C3%A1ginas_gifs/index%20sprint%202.gif)
 
 
-- banco de dados inicial para receber e enviar informações a pagina de administração do site(admin):
+- banco de dados inicial para receber, armazenar e enviar informações a pagina de administração do site(admin):
 
 
 ![gif1](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Projeto/P%C3%A1ginas_gifs/banco%20de%20dados.gif)
