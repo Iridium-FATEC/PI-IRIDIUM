@@ -1,90 +1,27 @@
-## Projeto Integrador - GRUPO 4  IRIDIUM - FATEC - ONG Vo Maria Felix
-![Ir](https://user-images.githubusercontent.com/80074680/111557949-80ad7080-876c-11eb-87be-42944f5a3d22.png)
-## NESTE PROJETO
-- [DISCIPLINAS](#Disciplinas)
-- [EQUIPE](#Equipe)
-- [O PROJETO](#O-Projeto)
-- [OBJETIVO](#Objetivo)
-- [REQUISITOS DO SITE](#Requisitos-do-Site)
-- [PRODUCT BACKLOG](#Product-Backlog)
-- [BURNDOWN](#Burndown)
-- [TECNOLOGIAS](#Tecnologias)
-- [SPRINT](#Sprint)
-- [ESTRUTURAÇÃO INICIAL DO SITE](#Estruturação-Inicial-do-Site)
+## Instrução para rodar o projeto
 
+Procedimento para Windows
 
-## Disciplinas
-- LABORATÓRIO DE HARDWARE / PROGRAMAÇÃO EM MICROINFORMÁTICA
+1 - baixar o wamp 
 
-## Equipe
-#### :mortar_board:Luiz Habaeb:   [Linkedin]( https://www.linkedin.com/in/luiz-habaeb-64a250113/)|[Github](https://github.com/luizhabaeb)
+### Aviso ! não colocar uma senha e nem mudar o usuario root
+- php 7.3.21
+- mysqli 5.7.31
+- apache 2.4.46
 
-#### :mortar_board:Luis Souza:    [Linkedin](https://www.linkedin.com/in/lu%C3%ADs-souza)|[Github](https://www.linkedin.com/in/lu%C3%ADs-souza)
+2 - inicia o wamp precisando ficar verde
 
-#### :mortar_board:Julia Barroso: [Linkedin](https://www.linkedin.com/in/j%C3%BAlia-maria-santos-850739188/)|[Github](https://github.com/jumajubs)
+3 - clica no icone do wamp na barra de tarefas e depois na opção "www directory", dentro dessa página colar a pasta do projeto PI-RIDIUM ou abrir a pasta de documentos e colar o projeto PI-IRIDIUM na pasta WWW em "Este compudar > Disco Local(C:) > wamp64 > www"(referenciar imagem)
 
-#### :mortar_board:Jonatas Dallo: [Linkedin](https://www.linkedin.com/in/jonatas-dall%C3%B3-147638206/)|[Github](https://github.com/Jonatas-Dallo)
+4 - abre navegador e coloca na aba de pesquisa http://localhost/phpmyadmin
 
-#### :mortar_board:Fabiano Silva: [Linkedin](https://www.linkedin.com/in/fabiano-monteiro-604218203)|[Github](https://github.com/Fabiano-775) 
+5 - colocar o usuario root, não por senha, escolher opção mysql e dar enter
 
-#### :mortar_board:Dante Silva:   [Linkedin](https://www.linkedin.com/in/dante-silva-0a2a09a8/)|[Github](https://github.com/dantesjc)
+6 - ir na opção "importar" e puxar o arquivo voluntarios.sql na pasta banco_de_dados do git(referenciar)
 
-#### :mortar_board:Bruno Araujo:  [Linkedin](https://www.linkedin.com/in/bruno-ara%C3%BAjo-5a8702208/)|[Github](https://github.com/dimorais1)
+7 - colocar na aba de pesquisa do navegador http://localhost/PI-IRIDIUM/Projeto/html/index.HTML
 
-## O Projeto
-Este projeto visa realizar a boa estruturação de um site para a ONG Vó Maria Felix, divulgando seu trabalho, buscando mais visibilidade para a instituição e atraindo voluntários para a ampliação de atuação. 
-Um site é uma possibilidade de expor sua empresa, trabalho ou ideias na internet. É basicamente um conjunto de páginas estruturadas e armazenadas. Pode ser mais complexo do que se parece, pois para criação de um site usa-se códigos com comandos combinados bem específicos.  
-Com essa modalidade de interação via internet, instituições como organizações não governamentais (ONG’S), tem a possibilidade de divulgarem seus trabalhos, projetos e propósitos, atraindo mais voluntários e doações, assim, ampliando a capacidade de atuação. 
-Visto que uma ONG não tem fins lucrativos e realiza ações solidarias que são de grande valor para a sociedade é de extrema importância que as informações sejam divulgadas abertamente em sites bem estruturados. 
-> Visite o nosso protótipo: https://www.figma.com/file/reOnZxAVKGjLkEKW7WkVbG/Untitled?node-id=0%3A1 **(Em desenvolvimento)**
-
-## Objetivo
-- Oferecer um site com uma boa estruturação e de fácil operação para os usuários.
-- Divulgar o trabalho da ONG de forma mais efetiva.
-- Buscar maior visibilidade para a instituição.
-- Atrair voluntários, projetos e doações.
-
-## Requisitos do Site
-- Site intuitivo e de fácil operação contendo:
-- Uma opção **de fácil acesso** para cada item: CADASTRO DE VOLUNTÁRIOS, ALUNOS, PROJETOS E DOAÇÕES.
-
-## Product Backlog
-
-![Backlog](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Projeto/html/imagens/backlog%20oficial%20g.png)
-
-## Sprint
-![sprints](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Projeto/html/imagens/sprints%20g.png)
-
-> Arquivo completo da sprint:[Todas sprints] (https://github.com/Iridium-FATEC/PI-IRIDIUM/tree/main/Documentos/sprints)
-
-
-## Burndown
-- Burndown da 1º Sprint:[Imagens Burndown](https://github.com/Iridium-FATEC/PI-IRIDIUM/tree/main/Documentos/Burndown/Burndown%201%20sprint)
-
-![burndown](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Documentos/Burndown/Burndown%201%20sprint/Burndown%20gr%C3%A1fico.jpeg)
-
-- Burndown da 2º Sprint:
-- Burndown da 3º Sprint:
-- Burndown da 4º Sprint:
-- Pasta com todos:chart_with_downwards_trend:: https://github.com/Iridium-FATEC/PI-IRIDIUM/tree/main/Documentos/Burndown
-
-## Tecnologias
--[Visual Studio Code](https://code.visualstudio.com/download)
-
--Html
-
--Css
-
--java Script
-
--[Mysql](https://www.mysql.com/)
-
-
-## Estruturação Inicial do Site 
-### [(Clique aqui para ver todos os gifs)](https://github.com/Iridium-FATEC/PI-IRIDIUM/tree/main/Projeto/P%C3%A1ginas)
-- Página Inicial: 
-
-![gif1](https://user-images.githubusercontent.com/80074680/112739514-4e112e00-8f4b-11eb-859a-b8842e4a8305.gif)
+## informação completa do projeto: (referencia projeto_descricao.md)
 
 
 
