@@ -86,7 +86,7 @@
 # Gifs da segunda sprint
 
 
-## Página Index
+## Página inicial/index
 
 
 ![Ir](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Projeto/P%C3%A1ginas_gifs/index%20sprint%202.gif)
