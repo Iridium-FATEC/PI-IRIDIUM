@@ -85,7 +85,7 @@ Visto que uma ONG não tem fins lucrativos e realiza ações solidarias que são
 
 ## Estruturação Inicial do Site 
 
-### [(Clique aqui para ver todos os gifs)](https://github.com/Iridium-FATEC/PI-IRIDIUM/tree/main/Projeto/P%C3%A1ginas)
+### [(Clique aqui para ver todos os gifs)](https://github.com/Iridium-FATEC/PI-IRIDIUM/tree/main/Projeto/P%C3%A1ginas_gifs)
 
 - Página Inicial 1 sprint: 
 
