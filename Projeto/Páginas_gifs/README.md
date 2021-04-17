@@ -22,7 +22,7 @@
 
 ## Página Projetos
 
-![Ir](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Projeto/P%C3%A1ginas/projetos.gif)
+![Ir](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Projeto/P%C3%A1ginas_gifs/projetos.gif)
 
 - Funcionamento de botões:
 
