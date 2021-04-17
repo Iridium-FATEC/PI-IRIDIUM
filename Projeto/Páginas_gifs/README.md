@@ -71,3 +71,23 @@
 
 # Gifs da segunda sprint
 
+## Página Index
+
+![Ir](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Projeto/P%C3%A1ginas_gifs/index%20sprint%202.gif)
+
+
+## Páginas de doações
+
+![Ir](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Projeto/P%C3%A1ginas_gifs/Paginas%20de%20doa%C3%A7%C3%B5es%20sprint%202.gif)
+
+
+## Pagina Projetos
+
+![Ir](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Projeto/P%C3%A1ginas_gifs/projetos%20sprint%202.gif)
+
+
+## Pagina ver mais 
+
+![Ir](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Projeto/P%C3%A1ginas_gifs/ver%20mais%20sprint%202.gif)
+
+
