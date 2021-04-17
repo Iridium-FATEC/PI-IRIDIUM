@@ -1,6 +1,6 @@
-## informação completa do projeto: https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Documentos/projeto_descricao.md
+## informação completas: https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Documentos/projeto_descricao.md
 
-## Instrução para rodar 
+## Instrução para rodar o projeto
 
 Procedimento para Windows
 
