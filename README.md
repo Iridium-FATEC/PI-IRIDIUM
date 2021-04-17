@@ -1,4 +1,4 @@
-## informação completa do projeto: (referencia projeto_descricao.md)
+## informação completa do projeto: https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Documentos/projeto_descricao.md
 
 ## Instrução para rodar o projeto
 
