@@ -37,8 +37,8 @@ Um site é uma possibilidade de expor sua empresa, trabalho ou ideias na interne
 Com essa modalidade de interação via internet, instituições como organizações não governamentais (ONG’S), tem a possibilidade de divulgarem seus trabalhos, projetos e propósitos, atraindo mais voluntários e doações, assim, ampliando a capacidade de atuação. 
 Visto que uma ONG não tem fins lucrativos e realiza ações solidarias que são de grande valor para a sociedade é de extrema importância que as informações sejam divulgadas abertamente em sites bem estruturados. 
 > Visite os nossos protótipos: 
-> protótipo inicial no figma - https://www.figma.com/file/reOnZxAVKGjLkEKW7WkVbG/Untitled?node-id=0%3A1 
-> protótipo melhorado no wix - https://iridiumfatec.wixsite.com/ongvomariafelix
+- protótipo inicial no figma - https://www.figma.com/file/reOnZxAVKGjLkEKW7WkVbG/Untitled?node-id=0%3A1 
+- protótipo melhorado no wix - https://iridiumfatec.wixsite.com/ongvomariafelix
 
 ## Objetivo
 - Oferecer um site com uma boa estruturação e de fácil operação para os usuários.
