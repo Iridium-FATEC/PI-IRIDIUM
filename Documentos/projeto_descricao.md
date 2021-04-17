@@ -36,7 +36,9 @@ Este projeto visa realizar a boa estruturação de um site para a ONG Vó Maria 
 Um site é uma possibilidade de expor sua empresa, trabalho ou ideias na internet. É basicamente um conjunto de páginas estruturadas e armazenadas. Pode ser mais complexo do que se parece, pois para criação de um site usa-se códigos com comandos combinados bem específicos.  
 Com essa modalidade de interação via internet, instituições como organizações não governamentais (ONG’S), tem a possibilidade de divulgarem seus trabalhos, projetos e propósitos, atraindo mais voluntários e doações, assim, ampliando a capacidade de atuação. 
 Visto que uma ONG não tem fins lucrativos e realiza ações solidarias que são de grande valor para a sociedade é de extrema importância que as informações sejam divulgadas abertamente em sites bem estruturados. 
-> Visite o nosso protótipo: https://www.figma.com/file/reOnZxAVKGjLkEKW7WkVbG/Untitled?node-id=0%3A1 **(Em desenvolvimento)**
+> Visite os nossos protótipos: 
+> protótipo inicial no figma - https://www.figma.com/file/reOnZxAVKGjLkEKW7WkVbG/Untitled?node-id=0%3A1 
+> protótipo melhorado no wix - https://iridiumfatec.wixsite.com/ongvomariafelix
 
 ## Objetivo
 - Oferecer um site com uma boa estruturação e de fácil operação para os usuários.
@@ -55,15 +57,15 @@ Visto que uma ONG não tem fins lucrativos e realiza ações solidarias que são
 ## Sprint
 ![sprints](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Documentos/SprintBacklog.jpeg)
 
-> Arquivo completo da sprint:[Todas sprints] (https://github.com/Iridium-FATEC/PI-IRIDIUM/tree/main/Documentos/sprints)
+> Arquivo completo da sprint:[Todas sprints] (https://github.com/Iridium-FATEC/PI-IRIDIUM/tree/main/Evolu%C3%A7%C3%A3o%20das%20Sprints%20-%20Backlogs%20Anteriores)
 
 
 ## Burndown
-- Burndown da 1º Sprint:[Imagens Burndown](https://github.com/Iridium-FATEC/PI-IRIDIUM/tree/main/Documentos/Burndown/Burndown%201%20sprint)
+- Burndown da 1º Sprint: [Imagens Burndown](https://github.com/Iridium-FATEC/PI-IRIDIUM/tree/main/Documentos/Burndown/Burndown%201%20sprint)
 
 ![burndown](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Documentos/Burndown/Burndown%201%20sprint/Burndown%20gr%C3%A1fico.jpeg)
 
-- Burndown da 2º Sprint:[Imagens Burndown 2](https://github.com/Iridium-FATEC/PI-IRIDIUM/tree/main/Documentos/Burndown/Burndown%202%20sprint)
+- Burndown da 2º Sprint: [Imagens Burndown 2](https://github.com/Iridium-FATEC/PI-IRIDIUM/tree/main/Documentos/Burndown/Burndown%202%20sprint)
 
 ![burndown2](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Documentos/Burndown/Burndown%202%20sprint/grafico2.jpg)
 
