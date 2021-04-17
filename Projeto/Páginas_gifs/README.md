@@ -1,5 +1,9 @@
 # Gif das paginas do site e alguns funcionamentos
 
+- [GIFS DA PRIMEIRA SPRINT](#Gifs-daprimeira-sprint)
+
+## Gifs da primeira sprint
+
 ## Página inicial/index
 
 ![Ir](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Projeto/P%C3%A1ginas_gifs/pagina%20inicial.gif)
