@@ -24,3 +24,6 @@
         background-color: #888080;
         height: 300px;
     }
+    .container{
+        grid-template-columns: 200px 200px;
+    }
