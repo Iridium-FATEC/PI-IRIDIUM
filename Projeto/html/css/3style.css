@@ -1,14 +1,35 @@
 .titulo{
    
-    border-radius: 50px;
+    border-radius: 60px;
     margin-bottom: 1%;
-    margin-top: 1%;
+    margin-top: 2%;
     background-color: #8677DE;
-    padding: 15px 15px;
+    padding: 10px 15px;
 
 }
 
+.fieldIndicator{
+
+    width: 125px;
+    color:#555;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.textField{ 
+
+    background: #e5e5e5;
+    line-height: 37px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    padding: 0 22px;
+    font-size: 16px;
+    color: #555;
+}
+
 h2{
+
 
     font-size: 40px;
     font-stretch: normal;
@@ -16,6 +37,8 @@ h2{
     font-weight: 250;
 
 }
+
+
 
 
 #botoespagamento{
