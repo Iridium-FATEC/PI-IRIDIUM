@@ -78,7 +78,7 @@ header {
     align-items: center;
     color: #FFFFFF;
     text-align: center;
-    padding: 20px;
+    padding: 10px;
 }
 
 header p {
@@ -215,10 +215,9 @@ h2 {
     padding: 20px;
 }
 
-.container{
-
+.container {
     position: relative;
-left: 31rem;
+    left: 31rem;
 }
 
 
