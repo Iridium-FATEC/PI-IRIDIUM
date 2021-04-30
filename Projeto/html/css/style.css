@@ -20,7 +20,7 @@ h4 {
     border-radius: 3px;
     margin-bottom: 10%;
     margin-top: 10%;
-    width: 300px;
+    width: 100px;
     margin-left: 5px;
 }
 
@@ -33,9 +33,9 @@ h4 {
 nav {
     display: flex;
     flex-direction: column;
-    align-items: left;
+    align-items: center;
     background-color:#836FFF;
-    height: 300px;
+    height: 200px;
 }
 
 nav>a {
@@ -88,14 +88,15 @@ header p {
 #sobre {
     display: flex;
     flex-direction: column;
-    align-items: center;
-    text-align: center;
-    padding: 10px 10px 20px 20px;
+    align-items: left;
+    text-align: left;
+    padding: 10px 50px;
+    margin-right: 20;
     background-color: white;
     color: black;
     /*width: 65%;*/
     background-color: #ffffff;
-    box-shadow: 0 0 10px #000;
+    box-shadow: 0 0 5px #000;
 }
 
 #sobre p {
@@ -111,16 +112,15 @@ header p {
 #participantes {
     display: flex;
     flex-direction: column;
-    align-items: center;
-    text-align: center;
-    padding: 10px 10px 20px 20px;
+    align-items: left;
+    text-align: left;
+    padding: 10px 50px;
     color: #ffffff;
-    box-shadow: 0 0 10px #000;
+    box-shadow: 0 0 5px #000;
     /*width: 65%;*/
 }
 
-#participantes h1,
-h2 {
+#participantes h1,h2 {
     display: flex;
     flex-direction: column;
     text-align: center;
@@ -161,10 +161,10 @@ h2 {
     flex-direction: column;
     align-items: center;
     text-align: center;
-    padding: 10px 10px 20px 20px;
-    color: #000000;
+    padding: 10px 50px ;
+    color: #ffffff;
+    box-shadow: 0 0 5px #000;
     /*width: 65%;*/
-    
 }
 
 #frase {
@@ -217,7 +217,7 @@ h2 {
 
 .container {
     position: relative;
-    left: 31rem;
+    align-items: right;
 }
 
 

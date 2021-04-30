@@ -3,13 +3,13 @@ margin:0;padding:0;
 
 }
 .carrossel{
-width: 400px;
-height:250px;
-outline: 3px solid black;
-overflow: hidden;
-margin: 50px 10px;
-box-shadow: 10px 10px 15px rgb(0,0,0,0,0);
-}
+  width: 400px;
+  height:250px;
+  outline: 3px solid black;
+  overflow: hidden;
+  margin: 50px 10px;
+  box-shadow: 10px 10px 15px rgb(0,0,0,0,0);
+  }
 
 .carrossel ul{
   display: flex;

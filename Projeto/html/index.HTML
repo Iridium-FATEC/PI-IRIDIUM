@@ -7,30 +7,55 @@
     <link href="https://fonts.googleapis.com/css2?family=Asap:ital,wght@1,600&family=Nunito:ital,wght@1,800&family=Yellowtail&display=swap" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="css/normalize.css">
     <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="css/carrossel.css">
     <meta chartset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>VóMariaFélix</title>
-
 </head>
+
 <body>
-    <nav>
-        <a href="#"></a>
-        <ul><img src="imagens/logo.jpeg" id="logo1" width="35%" height="35%">
-            <header>
-                <li><a href="voluntarios.HTML" class="botao">Voluntários</a></li>
-                <li><a href="participantes.HTML" class="botao">Participantes</a></li>
-                <li><a href="projetos.HTML" class="botao">Projetos</a></li>
-                <li><a href="admin.php" class="botao">Admin(botão temporario)</a></li>
-            </header>
-            <img src="imagens/instagram-logo.png" id="logo" width="50" height="50"><img src="imagens/face-logo.png" id="logo" width="50" height="50"></ul>
-        <div id="frase">
-            <h2> Fazer o <u>Bem</u> muda o mundo! Ensinar uma criança a amar, só é possível amando-a.</h2>
+    <div>
+        <nav style="display: flex; float: center">
+            <a href="#"></a>
+            <ul>
+                <img src="imagens/logo.jpeg" id="logo1" width="85px" height="85px">
+                <header>
+                    <li><a href="voluntarios.HTML" class="botao">Voluntários</a></li>
+                    <li><a href="participantes.HTML" class="botao">Participantes</a></li>
+                    <li><a href="projetos.HTML" class="botao">Projetos</a></li>
+                    <li><a href="admin.php" class="botao">Admin</a></li>
+                </header>
+                <img src="imagens/instagram-logo.png" id="logo" width="50" height="50">
+                <img src="imagens/face-logo.png" id="logo" width="50" height="50">
+            </ul>
+            <div id="frase">
+                <h2> Fazer o bem muda o mundo!<br>Ensinar uma criança a amar, só é possível amando-a.</h2>
+            </div>
+    
+        </nav>
+    </div>
+
+    <fieldset style="padding: 30px 50px">
+        <div style="display: flex; float: left">
+            <a href="doacao.HTML" id="doe" class="botao">Doe aqui</a>
         </div>
-    </nav>
-    <fieldset>
-        <div><a href="doacao.HTML" id="doe" class="botao">Doe aqui</a></div>
-        <section id="sobre">
+        
+        <div class="carrossel" style="display: flex; float: left">
+            <ul>
+                <li> 
+                <img src="imagens/atividades2.jpeg" alt="">
+                </li>
+                 <li>
+                 <img src="imagens/brincadeira.jpeg" alt="">
+                 </li>
+                 <li>
+                <img src="imagens/atividades.jpeg"alt="" >
+                </li>
+            </ul>
+        </div>
+
+        <section id="sobre" style="width: 40.5%; display: flex; float: left">
             <h1>Sobre nós</h1>
             <p>
                 A ONG vó Maria Felix tem o intuito de receber crianças de 0 a 7 anos para realização de projetos em busca de enriquecimento em suas vidas. 
@@ -40,11 +65,8 @@
                 essas crianças socialmente em novos ambientes e situações, fazendo com que o cotidiano delas seja repleto de experiencias de grande valor.
             </p>
         </section>
-        <section id="voluntários">
-            <h1>Voluntários</h1>
-            <h4>Texto motivador para os voluntários</h4>
-        </section>
-        <section id="participantes">
+       
+        <section id="participantes" style="width: 40.5%; display: flex; float: center">
             <article>
                 <h1>História de uma aluna da Vó Maria Felix</h1>
                 <p>Brenda Barbosa Silva começou a frequentar o Cecoi Vó Maria Felix aos 5 anos e acredita que teve sorte, pois segundo ela seus estudos foram divertidos e interessantes, considerando o local seu segundo lar, em que aprendeu a ler, escrever
@@ -53,18 +75,13 @@
                     educação, apoio psicológico e assistência social, estimulando-as ao melhor desempenho próprio. </p>
             </article>
         </section>
-        <section id="eventos">
-            <div class="container">
-                <h3>Atividades da ONG</h3><img src="imagens/atividades2.jpeg" width="350" height="200">
-                <h3>Exemplo de brincadeiras da turminha da ONG.</h3><img src="imagens/brincadeira.jpeg" width="350" height="200">
-                <h3>Exemplo de brincadeiras da turminha da ONG.</h3><img src="imagens/atividades.jpeg" width="320" height="205">
-                <h3>Exemplo de brincadeiras da turminha da ONG.</h3><a href="ver-mais.HTML" class="botao">Ver mais</a></div>
-        </section>
-        <section id="localizacao">
+
+        <section id="localizacao" style="display: flex; float: bottom">
             <fieldset><img src="imagens/local.png" width="700" height="400"><br><br>
                 <div><a href="https://goo.gl/maps/NQ99RbYZg7eiTeck6" class="botao">Localização</a></div>
             </fieldset>
         </section>
+
         <section id="mantenedores">
             <fieldset>
                 <div>
@@ -74,7 +91,14 @@
                 </div>
             </fieldset>
         </section>
+        
+        <section id="voluntários" style="width: 40%; display: flex; float: right">
+            <h1>Voluntários</h1>
+            <h4>Texto motivador para os voluntários</h4>
+        </section>
     </fieldset>
+
+
     <div>
         <section id="contato">
             <p>Horário de funcionamento: de Segunda a Sexta, das 7:00h às 17:00h</p>
@@ -83,6 +107,7 @@
             <img src="imagens/tel.png">
             <p>Contato: <a href=mailto:(12)12345-6789>(12) 12345-6789</a></p>
         </section>
-</body>
+    </div>
 
+</body>
 </html>
