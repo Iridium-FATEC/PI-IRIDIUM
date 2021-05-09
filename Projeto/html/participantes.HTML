@@ -8,20 +8,36 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="css/3style.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
     <title>Participantes</title>
 
 </head>
-<!-- link pro voltar e titulo centralizado -->
-    <a href="index.HTML"> Voltar </a>
-    <div style="text-align:center" class="titulo"><h2>CADASTRO DE PARTICIPANTES</h2> </div>
 
 <body>
+    <div class="teo">
+        <div class="main">
+            <nav style="display: flex; float: center">
+                <a href="#"></a>
+                <ul>
+                    <img src="imagens/logo.jpeg" class="logo1">
+                    <header>
+                        <li><a href="voluntarios.php" class="botao">Voluntários</a></li>
+                        <li><a href="index.HTML" class="botao">Home</a></li>
+                        <li><a href="projetos.HTML" class="botao">Projetos</a></li>
+                        <li><a href="admin.php" class="botao">Admin</a></li>
+                    </header>
+                </ul>        
+            </nav>
+        </div>
+    </div>
 
     <!-- form usado pra fazer o code do documento  -->
     <form method="POST" action="processa.php">
 
         <!-- programação para cada campo a ser preenchido funcionar -->
-        <fieldset id="informacoes">
+
+        <h2 style="text-align: center;">Participantes</h2>
+        <fieldset >
             <p><label for="iparticipante">Nome do participante: </label><input type="text" name="paname" id="iparticipante" placeholder="Nome Completo" /></p>
             <p><label for="idata">Data de Nascimento: </label><input type="date" name="ndata" id="idata" /></p>
             <p><label for="imae">Nome da Mãe: </label><input type="text" name="mname" id="imae" placeholder="Nome Completo" /></p>
