@@ -156,9 +156,9 @@ header p {
     display: flex;
     flex-direction: column;
     align-items: center;
-    text-align: center;
+    text-align: left;
     padding: 10px 50px ;
-    color: #ffffff;
+    color: #000;
     box-shadow: 0 0 5px #000;
     /*width: 65%;*/
 }
@@ -185,7 +185,14 @@ header p {
     border-radius: 20%;
     position: relative;
     top: 3rem;
-    padding: 5px;
+    padding-top: 0;
+    padding-bottom: 5px;
+}
+
+.logo:hover {
+    box-shadow: 0 0 20px#000;
+    text-shadow: 0 0 10px#fff;
+    align-items: center;
 }
 
 .logo1 {
@@ -221,10 +228,7 @@ header p {
     flex-direction: row;
 }
 
-
-.fundo1 {
-    background-color: #e6e7e6;
-    padding-right: 0px;
-    height: 190px;
-    text-align: center;
+.redesSociais {
+    padding: 20px;
+    align-items: center;
 }
