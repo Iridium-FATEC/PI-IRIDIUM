@@ -27,12 +27,11 @@ h1, h2, h3, h4 {
     align-items: center;
 }
 
-nav {
+.teo {
     display: flex;
     flex-direction: column;
-    align-items: center;
     background-color:#836FFF;
-    height: 200px;
+    height: 210px;
 }
 
 nav>a {
@@ -46,7 +45,7 @@ nav>a {
 nav ul {
     display: flex;
     flex-direction: row;
-    align-items: left;
+    align-items: top;
     list-style: none;
     padding: 0;
     width: 100%;
@@ -157,16 +156,17 @@ header p {
     display: flex;
     flex-direction: column;
     align-items: center;
-    text-align: center;
+    text-align: left;
     padding: 10px 50px ;
-    color: #ffffff;
+    color: #000;
     box-shadow: 0 0 5px #000;
     /*width: 65%;*/
 }
 
 #frase {
     color: rgb(0, 0, 0);
-    margin: 1%;
+    margin: 0.5%;
+    text-align: right;
 }
 
 #doe {
@@ -185,13 +185,20 @@ header p {
     border-radius: 20%;
     position: relative;
     top: 3rem;
-    padding: 5px;
+    padding-top: 0;
+    padding-bottom: 5px;
+}
+
+.logo:hover {
+    box-shadow: 0 0 20px#000;
+    text-shadow: 0 0 10px#fff;
+    align-items: center;
 }
 
 .logo1 {
     border-radius: 20%;
-    width: 200px;
-    height: 200px;
+    width: 180px;
+    height: 180px;
 }
 
 #mantenedores {
@@ -212,9 +219,16 @@ header p {
     padding: 20px;
 }
 
-.container {
-    position: relative;
-    align-items: right;
+.main {
+    display: flex;
+    float: left;
+    padding-left: 15%;
+    width: 70%;
+    height: 70%;
+    flex-direction: row;
 }
 
-
+.redesSociais {
+    padding: 20px;
+    align-items: center;
+}
