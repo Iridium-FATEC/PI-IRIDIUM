@@ -11,13 +11,29 @@ session_start();
     <link href="css/3style.css" rel="stylesheet">
     <link rel="sortcut icon" href="img/logo.jpeg" type="image/jpeg"/>
     <title>voluntarios</title>
-    <a href="index.HTML"> Voltar </a>
-
 </head>
 
 <div style="text-align:center" class="titulo"><h2>CADASTRO DE VOLUNTARIOS</h2> </div>
 
 <body>
+<div class="teo">
+        <div class="main">
+            <nav style="display: flex; float: center">
+                <a href="#"></a>
+                <ul>
+                    <img src="imagens/logo.jpeg" class="logo1">
+                    <header>
+                        <li><a href="voluntarios.php" class="botao">Voluntários</a></li>
+                        <li><a href="participantes.HTML" class="botao">Participantes</a></li>
+                        <li><a href="projetos.HTML" class="botao">Projetos</a></li>
+                        <li><a href="admin.php" class="botao">Admin</a></li>
+                        <li><a href="index.HTML" class="botao">Home</a></li>
+                    </header>
+                </ul>        
+            </nav>
+        </div>
+    </div>
+
     
     <?php
     if(isset($_SESSION['msg'])){

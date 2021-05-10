@@ -7,6 +7,7 @@ h1, h2, h3, h4 {
     font-family: Asap, sans-serif;
     color: #000000
 }
+
 .botao {
     color: #FFFFFF;
     text-decoration: none;
@@ -16,11 +17,6 @@ h1, h2, h3, h4 {
     border-radius: 3px;
     margin-bottom: 10%;
     margin-top: 10%;
-}
-
-div {
-    background-color: #8677DE;
-    padding: 20px;
 }
 
 div h1 {
