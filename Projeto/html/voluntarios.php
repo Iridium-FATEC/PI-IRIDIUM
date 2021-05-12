@@ -9,15 +9,31 @@ session_start();
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="css/3style.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
     <link rel="sortcut icon" href="img/logo.jpeg" type="image/jpeg"/>
-    <title>voluntarios</title>
-    <a href="index.HTML"> Voltar </a>
+    <title>Voluntarios</title>
 
 </head>
 
-<div style="text-align:center" class="titulo"><h2>CADASTRO DE VOLUNTARIOS</h2> </div>
-
 <body>
+    <div class="teo">
+        <div class="main">
+            <nav style="display: flex; float: center">
+                <a href="#"></a>
+                <ul>
+                    <img src="imagens/logo.jpeg" class="logo1">
+                    <header>
+                        <li><a href="index.HTML" class="botao">Home</a></li>
+                        <li><a href="participantes.HTML" class="botao">Participantes</a></li>
+                        <li><a href="projetos.HTML" class="botao">Projetos</a></li>
+                        <li><a href="admin.php" class="botao">Admin</a></li>
+                    </header>
+                </ul>        
+            </nav>
+        </div>
+    </div>
+    
+    <h2>CADASTRO DE VOLUNTARIOS</h2>
     
     <?php
     if(isset($_SESSION['msg'])){
