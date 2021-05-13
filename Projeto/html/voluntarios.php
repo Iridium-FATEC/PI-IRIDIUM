@@ -41,7 +41,7 @@ session_start();
         unset($_SESSION['msg']);
     }
     ?>
-    <form method="POST" action="ad-banco-voluntario.php">
+    <form method="POST" action="processa.php">
         <fieldset id="mensagem">
             <p>Tipo de Voluntário:<input type="text" name="tNome" id="cNome" size="50" maxlength="70" placeholder="Ex: dar aulas, monitoria, atividades recreativas, dentre outros"/></p>
             <p>Nome:<input type="text" name="tNome" id="cNome" size="50" maxlength="70" placeholder="Nome Completo"/></p>
