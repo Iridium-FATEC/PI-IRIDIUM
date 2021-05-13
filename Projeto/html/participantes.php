@@ -1,3 +1,7 @@
+<?php
+session_start();
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -30,25 +34,26 @@
             </nav>
         </div>
     </div>
-
-    <!-- form usado pra fazer o code do documento  -->
-    <form method="POST" action="processa.php">
-
-        <!-- programação para cada campo a ser preenchido funcionar -->
-
         <h2 style="text-align: center;">Participantes</h2>
-        <fieldset >
-            <p><label for="iparticipante">Nome do participante: </label><input type="text" name="paname" id="iparticipante" placeholder="Nome Completo" /></p>
-            <p><label for="idata">Data de Nascimento: </label><input type="date" name="ndata" id="idata" /></p>
-            <p><label for="imae">Nome da Mãe: </label><input type="text" name="mname" id="imae" placeholder="Nome Completo" /></p>
-            <p><label for="ipai">Nome do Pai: </label><input type="text" name="pname" id="ipai" placeholder="Nome Completo" /></p>
-            <p><label for="iestado">Estado: </label><input type="text" name="esname" id="iestado" placeholder="São Paulo" /></p>
-            <p><label for="icidade">Cidade: </label><input type="text" name="cname" id="icidade" placeholder="São José dos Campos" /></p>
-            <p><label for="irua">Rua: </label><input type="text" name="rname" id="irua" placeholder="Airto Pelógia, 184" /></p>
-            <p><label for="iemail">E-mail: </label><input type="email" name="emname" id="iemail" size="30" placeholder="example@gmail.com" /></p>
-            <p>[Enviar]</p>
-        </fieldset>
         
+        <?php
+        if(isset($_SESSION['msg']))
+            echo $_SESSION['msg'];
+            unset($_SESSION['msg'])
+        ?>
+        <form method="POST" action="2processa.php">
+            <fieldset>
+                <p><label for="iparticipante">Nome do participante: </label><input type="text" name="paname" id="iparticipante" placeholder="Nome Completo" /></p>
+                <p><label for="icpf">CPF: </label><input type="text" name="pacpf" id="icpf" placeholder="EX: 24375824319" /></p>
+                <p><label for="idata">Data de nascimento: </label><input type="text" name="ndata" id="idata"  placeholder="EX: 04/02/2010"/></p>
+                <p><label for="Responsavel">Nome do responsavel: </label><input type="text" name="responsavel" id="iresponsavel" placeholder="Pessoa responsavel" /></p>
+                <p><label for="iestado">Estado: </label><input type="text" name="esname" id="iestado" placeholder="São Paulo" /></p>
+                <p><label for="icidade">Cidade: </label><input type="text" name="cname" id="icidade" placeholder="São José dos Campos" /></p>
+                <p><label for="irua">Rua: </label><input type="text" name="rname" id="irua" placeholder="Airto Pelógia, 184" /></p>
+                <p><label for="iemail">E-mail: </label><input type="email" name="emname" id="iemail" size="30" placeholder="example@gmail.com" /></p>
+                <input type="submit" value="Enviar">
+            </fieldset>
+        </form>
         <!-- informações da ONG na parte inferior  -->
         <fieldset id="pcontatos">
             <p>E-mail: <a href=mailto:administracao@aamu.org.br>vomariafelix@cecoi.org.br</a></p>

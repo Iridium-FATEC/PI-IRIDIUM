@@ -34,7 +34,7 @@ session_start();
     <h2>CADASTRO DE VOLUNTARIOS</h2>
     
     
-    <?
+    <?php
     
     if(isset($_SESSION['msg'])){
         echo $_SESSION['msg'];
