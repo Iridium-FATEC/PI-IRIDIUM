@@ -13,7 +13,7 @@
     <span id="conteudo"></span>
     <script>
         $(document).ready(function () {
-            $.post('listor.php', function(retorna){
+            $.post('voluntarios.php', function(retorna){
                 $("conteudo").html(retorna);
             });
         });

@@ -4,15 +4,13 @@ session_start();
 <!DOCTYPE html>
 <html lang="en">
 <head>
-
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="css/3style.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
-    <link rel="sortcut icon" href="img/logo.jpeg" type="image/jpeg"/>
+    <link rel="sortcut icon" href="imagens/logo.jpeg" type="image/jpeg"/>
     <title>Voluntarios</title>
-
 </head>
 
 <body>
@@ -35,17 +33,16 @@ session_start();
     
     <h2>CADASTRO DE VOLUNTARIOS</h2>
     
-    <?php
+    
+    <?
+    
     if(isset($_SESSION['msg'])){
         echo $_SESSION['msg'];
         unset($_SESSION['msg']);
     }
     ?>
-    <form method="POST" action="processa.php">
-        
-            
+    <form method="POST" action="ad-banco-voluntario.php">
         <fieldset id="mensagem">
-             
             <p>Tipo de Voluntário:<input type="text" name="tNome" id="cNome" size="50" maxlength="70" placeholder="Ex: dar aulas, monitoria, atividades recreativas, dentre outros"/></p>
             <p>Nome:<input type="text" name="tNome" id="cNome" size="50" maxlength="70" placeholder="Nome Completo"/></p>
             <p>Email:<input type="email" name="tMail" id="cMail" size="50" maxlength="70" placeholder="Example@gmail.com"/></p>
@@ -56,6 +53,14 @@ session_start();
     
     </form>
 
+    <span id="conteudo"></span>
+    <script>
+        $(document).ready(function () {
+            $.post('voluntarios.php', function(retorna){
+                $("conteudo").html(retorna);
+            });
+        });
+    </script>
 
 </body>
 </html>

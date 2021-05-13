@@ -13,7 +13,6 @@ $resultado_usuario = mysqli_query($conn, $result_usuario);
     header("Location: voluntarios.PHP");
 } else {
     $_SESSION['msg'] = "<p style='color:red;'>O Voluntário não foi cadastrado com sucesso</p>";
-    header("Location: voluntarios.PHP");
 }
 
 ?>
