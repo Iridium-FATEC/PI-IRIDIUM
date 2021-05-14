@@ -27,7 +27,7 @@ session_start();
                     <header>
                         <li><a href="voluntarios.php" class="botao">Voluntários</a></li>
                         <li><a href="index.HTML" class="botao">Home</a></li>
-                        <li><a href="projetos.HTML" class="botao">Projetos</a></li>
+                        <li><a href="projetos.php" class="botao">Projetos</a></li>
                         <li><a href="admin.php" class="botao">Admin</a></li>
                     </header>
                 </ul>        
