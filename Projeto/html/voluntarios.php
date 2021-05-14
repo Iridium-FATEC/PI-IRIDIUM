@@ -43,10 +43,11 @@ session_start();
     ?>
     <form method="POST" action="processa.php">
         <fieldset id="mensagem">
-            <p>Tipo de Voluntário:<input type="text" name="tNome" id="cNome" size="50" maxlength="70" placeholder="Ex: dar aulas, monitoria, atividades recreativas, dentre outros"/></p>
-            <p>Nome:<input type="text" name="tNome" id="cNome" size="50" maxlength="70" placeholder="Nome Completo"/></p>
-            <p>Email:<input type="email" name="tMail" id="cMail" size="50" maxlength="70" placeholder="Example@gmail.com"/></p>
-            <p>Como pretende contribuir para a ONG? (Especificar se será em sua área de formação acadêmica, prestação de serviços gerais, auxiliar em atividades organizacionais, .etc)<input type="text" name="coNome" id="cNome" size="150" placeholder="Resumo das intenções do voluntario"/></p>        
+            <p>Tipo de Voluntário:<input type="text" name="vvoluntario" id="cNome" size="50" maxlength="70" placeholder="Ex: dar aulas, monitoria, atividades recreativas, dentre outros"/></p>
+            <p>Nome:<input type="text" name="vnome" id="cNome" size="50" maxlength="70" placeholder="Nome Completo"/></p>
+            <p>CPF:<input type="text" name="vcpf" id="ccpf" size="50" maxlength="70" placeholder="EX: 54362474214"/></p>
+            <p>Email de contato:<input type="text" name="vemail" id="cMail" size="50" maxlength="70" placeholder="Example@gmail.com"/></p>
+            <p>Como pretende contribuir para a ONG? (Especificar resumidamente se será em sua área de formação acadêmica, prestação de serviços gerais, etc)<input type="text" name="vcontribuicao" id="cNome" size="100" maxlength="75" placeholder="Resumo das intenções do voluntario"/></p>        
             <input type="submit" value="Enviar" id="tEnviar" onclick="Enviar">
 
         </fieldset>
