@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1:3306
--- Tempo de geração: 14-Maio-2021 às 23:42
+-- Tempo de geração: 15-Maio-2021 às 00:29
 -- Versão do servidor: 5.7.31
 -- versão do PHP: 7.4.9
 
@@ -18,27 +18,44 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Banco de dados: `voluntarios`
+-- Banco de dados: `doacoes`
 --
 
 -- --------------------------------------------------------
 
 --
--- Estrutura da tabela `voluntario`
+-- Estrutura da tabela `anonima`
 --
 
-DROP TABLE IF EXISTS `voluntario`;
-CREATE TABLE IF NOT EXISTS `voluntario` (
+DROP TABLE IF EXISTS `anonima`;
+CREATE TABLE IF NOT EXISTS `anonima` (
   `id` int(1) NOT NULL AUTO_INCREMENT,
-  `tipodevoluntario` varchar(220) NOT NULL,
-  `nome` varchar(220) NOT NULL,
-  `cpf` varchar(220) NOT NULL,
-  `email` varchar(220) NOT NULL,
   `contribuicao` varchar(220) NOT NULL,
   `created` datetime NOT NULL,
   `modified` datetime DEFAULT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=MyISAM AUTO_INCREMENT=5 DEFAULT CHARSET=latin1;
+) ENGINE=MyISAM AUTO_INCREMENT=4 DEFAULT CHARSET=latin1;
+
+-- --------------------------------------------------------
+
+--
+-- Estrutura da tabela `doacao`
+--
+
+DROP TABLE IF EXISTS `doacao`;
+CREATE TABLE IF NOT EXISTS `doacao` (
+  `id` int(1) NOT NULL AUTO_INCREMENT,
+  `nome` varchar(220) NOT NULL,
+  `sobrenome` varchar(220) NOT NULL,
+  `cpf` varchar(220) NOT NULL,
+  `email` varchar(220) NOT NULL,
+  `celular` varchar(220) NOT NULL,
+  `nascimento` varchar(220) NOT NULL,
+  `doacao` varchar(220) NOT NULL,
+  `created` datetime NOT NULL,
+  `modified` datetime DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=MyISAM AUTO_INCREMENT=2 DEFAULT CHARSET=latin1;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;

@@ -1,5 +1,5 @@
 <?php
-// conexão do doação
+// conexão do doação e doacao anonima
 
 $servidor = "localhost";
 $usuario = "root";

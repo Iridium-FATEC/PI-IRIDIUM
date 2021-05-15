@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1:3306
--- Tempo de geração: 14-Maio-2021 às 23:42
+-- Tempo de geração: 14-Maio-2021 às 23:41
 -- Versão do servidor: 5.7.31
 -- versão do PHP: 7.4.9
 
@@ -18,23 +18,26 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Banco de dados: `voluntarios`
+-- Banco de dados: `participantes`
 --
 
 -- --------------------------------------------------------
 
 --
--- Estrutura da tabela `voluntario`
+-- Estrutura da tabela `participante`
 --
 
-DROP TABLE IF EXISTS `voluntario`;
-CREATE TABLE IF NOT EXISTS `voluntario` (
+DROP TABLE IF EXISTS `participante`;
+CREATE TABLE IF NOT EXISTS `participante` (
   `id` int(1) NOT NULL AUTO_INCREMENT,
-  `tipodevoluntario` varchar(220) NOT NULL,
-  `nome` varchar(220) NOT NULL,
-  `cpf` varchar(220) NOT NULL,
+  `nomedoparticipante` varchar(220) NOT NULL,
+  `cpf` varchar(20) NOT NULL,
+  `datadenascimento` varchar(220) NOT NULL,
+  `responsavel` varchar(220) NOT NULL,
+  `estado` varchar(220) NOT NULL,
+  `cidade` varchar(220) NOT NULL,
+  `rua` varchar(220) NOT NULL,
   `email` varchar(220) NOT NULL,
-  `contribuicao` varchar(220) NOT NULL,
   `created` datetime NOT NULL,
   `modified` datetime DEFAULT NULL,
   PRIMARY KEY (`id`)
