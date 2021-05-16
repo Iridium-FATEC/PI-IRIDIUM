@@ -2,6 +2,10 @@
 <html lang="en">
 <head>
 
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.1/dist/umd/popper.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.min.js"></script>
     <link rel="sortcut icon" href="imagens/logo.jpeg" type="image/jpeg" />
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -12,10 +16,10 @@
 </head>
 
 <body>
-    
-<input type="checkbox" id="check">
-     <label id="icone" for="check"><img src="imagens/logo-admin-menu.png" alt="logo" /></label>
         
+    <input type="checkbox" id="check">
+    <label id="icone" for="check"><img src="imagens/logo-admin-menu.png" alt="logo" /></label>
+            
     <div class="barra">
 
         <nav>
@@ -30,29 +34,52 @@
 
     </div>
 
-<?php
+    <div style="padding-top: 70px; padding-left: 70px;">
+        <table class="table table-striped table-hover table-bordered ">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Nome</th>
+                    <th>Sobrenome</th>
+                    <th>CPF</th>
+                    <th>Email</th>
+                    <th>Celular</th>
+                    <th>Nascimento</th>
+                    <th>Doação</th>
+                    <th>Created</th>
+                    <th>Modified</th>
+                </tr>
+            </thead>
 
-include_once("3conexao.php");
+            <tbody>
+                <?php
+                 include_once("3conexao.php");
 
-$result_usuario = "SELECT * FROM doacao ORDER BY id DESC";
-$resultado_usuario = mysqli_query($conn, $result_usuario);  
-    if(($resultado_usuario) and ($resultado_usuario->num_rows != 0)){}
-        while($row_usuario = mysqli_fetch_assoc($resultado_usuario)){
-            echo $row_usuario['id'] . "<br>";
-            echo $row_usuario['nome'] . "<br>";
-            echo $row_usuario['sobrenome'] . "<br>";
-            echo $row_usuario['cpf'] . "<br>";
-            echo $row_usuario['email'] . "<br>";
-            echo $row_usuario['celular'] . "<br>";
-            echo $row_usuario['nascimento'] . "<br>";
-            echo $row_usuario['doacao'] . "<br>";
-            echo $row_usuario['created'] . "<br>";
-            echo $row_usuario['modified'] . "<br>";
-    } 
-    
+                 $result_usuario = "SELECT * FROM doacao ORDER BY id DESC";
+                 $resultado_usuario = mysqli_query($conn, $result_usuario);  
+                     if(($resultado_usuario) and ($resultado_usuario->num_rows != 0)){}
+                         while($row_usuario = mysqli_fetch_assoc($resultado_usuario)){
+                      
+                ?>
+                <tr>
+                    <th><?php echo $row_usuario['id']; ?></th>
+                    <td><?php echo $row_usuario['nome']; ?></td>
+                    <td><?php echo $row_usuario['sobrenome']; ?></td>
+                    <td><?php echo $row_usuario['cpf']; ?></td>
+                    <td><?php echo $row_usuario['email']; ?></td>
+                    <td><?php echo $row_usuario['celular']; ?></td>
+                    <td><?php echo $row_usuario['nascimento']; ?></td>
+                    <td><?php echo $row_usuario['doacao']; ?></td>
+                    <td><?php echo $row_usuario['created']; ?></td>
+                    <td><?php echo $row_usuario['modified']; ?></td>
+                </tr>  
+                <?php 
+                        }
+                ?>
 
-
-?>
+            </tbody>
+        </table>
+    </div>
 
 </body>
 
