@@ -11,14 +11,12 @@
     <link href="css/admin.css" rel="stylesheet">
     <title>Voluntarios</title>
 </head>
+
 <body>
-
-
-<input type="checkbox" id="check">
-     <label id="icone" for="check"><img src="imagens/logo-admin-menu.png" alt="logo" /></label>
+    <input type="checkbox" id="check">
+    <label id="icone" for="check"><img src="imagens/logo-admin-menu.png" alt="logo" /></label>
         
     <div class="barra">
-
         <nav>
             <a href="ad-banco-projeto.php"><div class="link">Projetos</div></a>
             <a href="ad-banco-participantes.php"><div class="link">Participantes</div></a>
@@ -26,50 +24,48 @@
             <a href="ad-banco-doacao-anonima.php"><div class="link">Doação anonima</div></a>
             <a href="ad-banco-voluntario.php"><div class="link">Voluntarios</div></a>
             <a href="index.html"><div class="link">Voltar</div></a>
-
         </nav>
-
     </div> 
 
+    <div style="padding: 70px;">
+        <table class="table table-striped table-hover table-bordered ">
+            <thead>
+                <tr>
+                <th>ID</th>
+                <th>Voluntario</th>
+                <th>Name</th>
+                <th>CPF</th>
+                <th>Email</th>
+                <th>Contribuição</th>
+                <th>Data</th>
+                </tr>
+            </thead>
 
-    <table class="table table-striped table-hover table-bordered ">
-        <thead>
-            <tr>
-            <th>ID</th>
-            <th>Voluntario</th>
-            <th>Name</th>
-            <th>CPF</th>
-            <th>Email</th>
-            <th>Contribuição</th>
-            <th>Data</th>
-            
-            </tr>
-        </thead>
+            <tbody>
+                <?php
+                include_once("conexao.php");
 
-        <tbody>
-            <?php
-            include_once("conexao.php");
+                $result_usuario = "SELECT * FROM voluntario ORDER BY id DESC";  
+                $resultado_usuario = mysqli_query($conn, $result_usuario);  
+                    if(($resultado_usuario) and ($resultado_usuario->num_rows != 0)){}
+                        while($row_usuario = mysqli_fetch_assoc($resultado_usuario)){
+                ?>
+                <tr>
+                    <th><?php echo $row_usuario['id']; ?></th>
+                    <td><?php echo $row_usuario['tipodevoluntario']; ?></td>
+                    <td><?php echo $row_usuario['nome']; ?></td>
+                    <td><?php echo $row_usuario['cpf']; ?></td>
+                    <td><?php echo $row_usuario['email']; ?></td>
+                    <td><?php echo $row_usuario['contribuicao']; ?></td>
+                    <td><?php echo $row_usuario['created']; ?></td>
+                </tr>  
+                <?php 
+                        }
+                ?>
 
-            $result_usuario = "SELECT * FROM voluntario ORDER BY id DESC";  
-            $resultado_usuario = mysqli_query($conn, $result_usuario);  
-                if(($resultado_usuario) and ($resultado_usuario->num_rows != 0)){}
-                    while($row_usuario = mysqli_fetch_assoc($resultado_usuario)){
-            ?>
-            <tr>
-                <th><?php echo $row_usuario['id']; ?></th>
-                <td><?php echo $row_usuario['tipodevoluntario']; ?></td>
-                <td><?php echo $row_usuario['nome']; ?></td>
-                <td><?php echo $row_usuario['cpf']; ?></td>
-                <td><?php echo $row_usuario['email']; ?></td>
-                <td><?php echo $row_usuario['contribuicao']; ?></td>
-                <td><?php echo $row_usuario['created']; ?></td>
-            </tr>  
-            <?php 
-                    }
-            ?>
-
-        </tbody>
-    </table>
+            </tbody>
+        </table>
+    </div>
     
 </body>
 </html>

@@ -8,7 +8,7 @@
 .barra{
     background-color: rgb(51, 51, 51);
     height: 100%;
-    width: 200px;
+    width: 150px;
     position: absolute;
     transition: all .2s linear;
     left: -300px;
