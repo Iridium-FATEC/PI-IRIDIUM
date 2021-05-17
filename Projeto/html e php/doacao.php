@@ -73,9 +73,9 @@ session_start();
 
             <p><label for="cMail">Email: </label><input  type="email" name="tMail" id="cMail" size="50" maxlength="70" placeholder="Example@gmail.com"/></p>
 
-            <p><label for="cCelular">Celular: </label><input type="text" name="tCelular" id="cCelular" size="15" maxlength="17" placeholder="+55 (12) 91234-5678"/>
+            <p><label for="cCelular">Celular: </label><input type="text" name="tCelular" id="cCelular" size="19" maxlength="19" placeholder="+55 (12) 91234-5678"/>
 
-            <p><label for="cNasc">Data de Nascimento: </label><input  type="text" name="tNasc" id="cNasc" size="8" maxlength="8" placeholder="23/11/1995"/></p>
+            <p><label for="cNasc">Data de Nascimento: </label><input  type="text" name="tNasc" id="cNasc" size="10" maxlength="10" placeholder="23/11/1995"/></p>
 
             <p>R$ <input type="text" name="quantity" step="5.0" min="5.0" placeholder="insira o valor a ser doado"></p>
 

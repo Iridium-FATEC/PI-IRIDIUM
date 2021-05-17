@@ -59,7 +59,6 @@ session_start();
         <fieldset id="pcontatos">
             <p>E-mail: <a href=mailto:administracao@aamu.org.br>vomariafelix@cecoi.org.br</a></p>
             <p>Contato: <a href=mailto:(12)91234-5678>(12) 91234-5678</a></p>
-            <p>*Anexo documentos necessários para aprovação como participante da ONG*</p>
         </fieldset>
 
     </form>
