@@ -7,6 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="css/admin.css" rel="stylesheet">
+    <link rel="sortcut icon" href="imagens/logo.jpeg" type="image/jpeg"/>
     <title>Admin</title>
 
 </head>

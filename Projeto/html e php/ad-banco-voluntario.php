@@ -9,6 +9,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="css/admin.css" rel="stylesheet">
+    <link rel="sortcut icon" href="imagens/logo.jpeg" type="image/jpeg"/>
     <title>Voluntarios</title>
 </head>
 
@@ -33,11 +34,11 @@
                 <tr>
                 <th>ID</th>
                 <th>Voluntario</th>
-                <th>Name</th>
+                <th>Nome</th>
                 <th>CPF</th>
                 <th>Email</th>
                 <th>Contribuição</th>
-                <th>Data</th>
+                <th>Criado</th>
                 </tr>
             </thead>
 

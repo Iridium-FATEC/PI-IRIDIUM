@@ -79,22 +79,34 @@ Visto que uma ONG não tem fins lucrativos e realiza ações solidarias que são
 
 ## Gifs da 3° sprint: 
 
-### [(Clique aqui para visualizar gifs das outras sprints)](https://github.com/Iridium-FATEC/PI-IRIDIUM/tree/main/Projeto/P%C3%A1ginas_gifs)
+### [(Clique aqui para visualizar os gifs das sprints)](https://github.com/Iridium-FATEC/PI-IRIDIUM/tree/main/Projeto/P%C3%A1ginas_gifs)
 
 
+![gif1]()
 
 
-- protótipo inicial figma:
+- formatação da páginas doação e doação anonima, além da adição de página de pagamento
 
 
-![gif1](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Projeto/P%C3%A1ginas_gifs/prototipo_figma.gif)
+![gif1](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Projeto/P%C3%A1ginas_gifs/doacao%20e%20anonima.gif)
 
 
-- protótipo melhorado wix:
+- formatação das páginas voluntários, participante e projeto
 
 
-![gif1](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Projeto/P%C3%A1ginas_gifs/prototito_wix.gif)
+![gif1](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Projeto/P%C3%A1ginas_gifs/formata%C3%A7%C3%A3o-3-paginas.gif)
 
+
+- banco finalizado e exibição pelo próprio site
+
+
+![gif1](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Projeto/P%C3%A1ginas_gifs/exibir-banco.gif)
+
+
+- área de exibição do banco
+
+
+![gif1](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Projeto/P%C3%A1ginas_gifs/admin.gif)
 
 
 ## Instruções para rodar o projeto

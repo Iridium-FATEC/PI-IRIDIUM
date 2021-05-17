@@ -2,11 +2,16 @@
 <html lang="en">
 <head>
 
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.1/dist/umd/popper.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.min.js"></script>
     <link rel="sortcut icon" href="imagens/logo.jpeg" type="image/jpeg" />
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="css/admin.css" rel="stylesheet">
+    <link rel="sortcut icon" href="imagens/logo.jpeg" type="image/jpeg"/>
     <title>Participantes</title>
     
 </head>
@@ -30,28 +35,51 @@
 
     </div>
 
-<?php
+    <div style="padding: 70px;">
+        <table class="table table-striped table-hover table-bordered ">
+            <thead>
+                <tr>
+                <th>ID</th>
+                <th>Participante</th>
+                <th>Nascimento</th>
+                <th>Responsavel</th>
+                <th>Estado</th>
+                <th>Cidade</th>
+                <th>Ruah>
+                <th>Email</th>
+                <th>Created</th>
+                <th>Modified</th>
+                </tr>
+            </thead>
 
-include_once("2conexao.php");
+            <tbody>
+                <?php
+                include_once("2conexao.php");
 
-$result_usuario = "SELECT * FROM participante ORDER BY id DESC";
-$resultado_usuario = mysqli_query($conn, $result_usuario);  
-    if(($resultado_usuario) and ($resultado_usuario->num_rows != 0)){}
-        while($row_usuario = mysqli_fetch_assoc($resultado_usuario)){
-            echo $row_usuario['id'] . "<br>";
-            echo $row_usuario['nomedoparticipante'] . "<br>";
-            echo $row_usuario['datadenascimento'] . "<br>";
-            echo $row_usuario['responsavel'] . "<br>";
-            echo $row_usuario['estado'] . "<br>";
-            echo $row_usuario['cidade'] . "<br>";
-            echo $row_usuario['rua'] . "<br>";
-            echo $row_usuario['email'] . "<br>";
-            echo $row_usuario['created'] . "<br>";
-            echo $row_usuario['modified'] . "<br>";
-    } 
-    
+                $result_usuario = "SELECT * FROM participante ORDER BY id DESC";
+                $resultado_usuario = mysqli_query($conn, $result_usuario);  
+                    if(($resultado_usuario) and ($resultado_usuario->num_rows != 0)){}
+                        while($row_usuario = mysqli_fetch_assoc($resultado_usuario)){
+                ?>
+                <tr>
+                    <th><?php echo $row_usuario['id']; ?></th>
+                    <td><?php echo $row_usuario['nomedoparticipante']; ?></td>
+                    <td><?php echo $row_usuario['datadenascimento']; ?></td>
+                    <td><?php echo $row_usuario['responsavel']; ?></td>
+                    <td><?php echo $row_usuario['estado']; ?></td>
+                    <td><?php echo $row_usuario['cidade']; ?></td>
+                    <td><?php echo $row_usuario['rua']; ?></td>
+                    <td><?php echo $row_usuario['email']; ?></td>
+                    <td><?php echo $row_usuario['created']; ?></td>
+                    <td><?php echo $row_usuario['modified']; ?></td>
+                </tr>  
+                <?php 
+                        }
+                ?>
 
-?>
+            </tbody>
+        </table>
+    </div>>
 
 </body>
 

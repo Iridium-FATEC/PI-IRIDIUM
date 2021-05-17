@@ -2,6 +2,7 @@
 
 - [GIFS DA PRIMEIRA SPRINT](#Gifs-da-primeira-sprint)
 - [GIFS DA SEGUNDA SPRINT](#Gifs-da-segunda-sprint)
+- [GIFS DA TERCEIRA SPRINT](#Gifs-da-terceira-sprint)
 
 # Gifs da primeira sprint
 
@@ -106,4 +107,54 @@
 ## Informação sendo enviada para o banco de dados
 
 ![Ir](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Projeto/P%C3%A1ginas_gifs/info%20pro%20banco.gif)
+
+## protótipo inicial figma:
+
+
+![gif1](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Projeto/P%C3%A1ginas_gifs/prototipo_figma.gif)
+
+
+## protótipo melhorado wix:
+
+
+![gif1](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Projeto/P%C3%A1ginas_gifs/prototito_wix.gif)
+
+
+
+
+
+
+# Gifs da terceira sprint
+
+
+## formatação do index 
+
+
+![Ir]()
+
+
+## formatação da páginas doação e doação anonima, além da adição de página de pagamento
+
+
+![Ir](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Projeto/P%C3%A1ginas_gifs/doacao%20e%20anonima.gif)
+
+
+## formatação das páginas voluntários, participante e projeto
+
+
+![Ir](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Projeto/P%C3%A1ginas_gifs/formata%C3%A7%C3%A3o-3-paginas.gif)
+
+
+## banco finalizado e exibição pelo próprio site
+
+
+![Ir](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Projeto/P%C3%A1ginas_gifs/exibir-banco.gif)
+
+
+## área de exibição do banco
+
+
+![Ir](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Projeto/P%C3%A1ginas_gifs/admin.gif)
+
+
 
