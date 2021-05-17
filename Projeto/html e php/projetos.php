@@ -1,3 +1,7 @@
+<?php
+session_start();
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -33,29 +37,25 @@
     </div>
 
     <nav>
-        <form id="CadastroP" method="POST" action="mailto:luisttine@gmail.com">
+    <?php
+        if(isset($_SESSION['msg']))
+            echo $_SESSION['msg'];
+            unset($_SESSION['msg'])
+    ?>
+        <form id="CadastroP" method="POST" action="5processa.php">
             <div>
                 <h1 >Cadastro de Projetos</h1> 
             </div>
             <fieldset id="Projeto">
-                <legend><h3>Informações do voluntário:</h3></legend>
-                <p><label for="cEmail">E-mail do voluntário </label><input type="email" name="tEmail" id="cEmail" placeholder="exemple@tal.com"/></p>
                 <p><label for="cVoluntario">Nome do Voluntário: </label><input type="text" name="tVoluntario" id="cVoluntario" placeholder="Exemplo De Tal"/></p>
-                <p><label for="cProjeto">Nome do projeto: </label><input type="text" name="tProjeto" id="cProjeto" placeholder="Exemplo de tal"/></p>
-                <p><label for="cEnsino">Tipo de ensino/atividade: </label><input type="text" name="tEnsino" id="cEnsino" placeholder="Educação Física"/></p>
+                <p><label for="ccpf">CPF do Voluntário: </label><input type="text" name="tcpf" id="ccpf" placeholder="Ex: 22233344456"/></p>
+                <p><label for="cEmail">E-mail do voluntário </label><input type="email" name="tEmail" id="cEmail" placeholder="exemple@tal.com"/></p>
+                <p><label for="cProjeto">Nome do projeto: </label><input type="text" name="tProjeto" id="cProjeto" size="55" maxlength="100" placeholder="Exemplo de tal"/></p>
+                <p><label for="cEnsino">Tipo de ensino/atividade: </label><input type="text" name="tEnsino" id="cEnsino" size="55" maxlength="100" placeholder="Ex: Educação Física"/></p>
+                <p><label for="cEnsino">Tipo de local necessario para a realização do projeto: </label><input type="text" name="tlocal" id="clocal" size="55" maxlength="100" placeholder="Ex: Quadra, Parque, etc"/></p>
+                <p><label for="cEnsino">Vai precisar de transporte ? se sim qual ? e será responsabilidade do voluntario a conseguir ou ficara pela responsabilidade da ong ?: </label><input type="text" name="ttransporte" id="ctransporte" size="55" maxlength="100" placeholder="Ex: sim, onibus, Responsabilidade do voluntario"/></p>   
+                <input type="submit" value="Enviar">         
             </fieldset>
-            <fieldset>
-                <legend>Recursos necessarios para execução do projeto:</legend>
-                <p><input type="radio" name="tRecursos" id="cOng"><label for="cOng"> Possibilidade de proveitamento de estrutura da ong.</label></p>
-                <p><input type="radio" name="tRecursos" id="cCedido"><label for="cCedido"> Outro local Cedido pelo voluntário.</label></p>
-                <legend>Necessidade de  meio de transporte:</legend>
-                <p><input type="radio" name="tTransporte" id="cProximo"><label for="cProximo"> Não necessário por ser proximo</label></p>
-                <p><input type="radio" name="tTransporte" id="cEstrutura" ><label for="cEstrutura"> Não necessario por usar a estrutura da ONG</label></p>  
-                <p><input type="radio" name="tTransporte" id="cNecessidade" ><label for="cNecessidade"> Em casos de necessidade de transporte explicar como funcionará na caixa de texto abaixo</label></p>
-                <textarea name="tMsg" id="cMsg" cols="45" rows="5" placeholder="Digite aqui as especificações de transporte para sua futura turminha"></textarea>
-                <p>Anexo documentação de esquema de implantação do projeto</p>
-            </fieldset>
-            <input type="button" value="TesteCadastro" id="tCadastro" onclick="CadastroP"> 
         </form>
     </nav>
     
