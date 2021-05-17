@@ -45,9 +45,9 @@
                     <th>Email</th>
                     <th>Celular</th>
                     <th>Nascimento</th>
-                    <th>Doação</th>
-                    <th>Created</th>
-                    <th>Modified</th>
+                    <th>Doação (R$)</th>
+                    <th>Criado</th>
+                    <th>Modificado</th>
                 </tr>
             </thead>
 

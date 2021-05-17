@@ -33,11 +33,11 @@
                 <tr>
                 <th>ID</th>
                 <th>Voluntario</th>
-                <th>Name</th>
+                <th>Nome</th>
                 <th>CPF</th>
                 <th>Email</th>
                 <th>Contribuição</th>
-                <th>Data</th>
+                <th>Criado</th>
                 </tr>
             </thead>
 

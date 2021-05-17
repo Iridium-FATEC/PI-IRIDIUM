@@ -39,10 +39,9 @@
             <thead>
                 <tr>
                 <th>ID</th>
-                <th>Voluntario</th>
-                <th>Contribuição</th>
-                <th>Created</th>
-                <th>Modified</th>
+                <th>Contribuição (R$)</th>
+                <th>Criado</th>
+                <th>Modificado</th>
                 </tr>
             </thead>
 
