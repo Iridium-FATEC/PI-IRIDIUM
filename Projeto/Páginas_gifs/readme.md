@@ -130,7 +130,7 @@
 ## formatação do index 
 
 
-![Ir]()
+![Ir](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Projeto/P%C3%A1ginas_gifs/GIF-index.gif)
 
 
 ## formatação da páginas doação e doação anonima, além da adição de página de pagamento

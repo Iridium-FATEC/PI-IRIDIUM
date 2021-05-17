@@ -63,7 +63,7 @@ Visto que uma ONG não tem fins lucrativos e realiza ações solidarias que são
 
 ![burndown](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Documentos/Burndown/Burndown%203%20sprint/grafico3.jpg)
 
-- Pasta com todos:chart_with_downwards_trend::[gráficos](https://github.com/Iridium-FATEC/PI-IRIDIUM/tree/main/Documentos/Burndown)
+### [(Clique aqui para visualizar a paste com todos os burndowns)](https://github.com/Iridium-FATEC/PI-IRIDIUM/tree/main/Documentos/Burndown)
 
 ## Tecnologias
 -[Visual Studio Code](https://code.visualstudio.com/download)
@@ -82,7 +82,7 @@ Visto que uma ONG não tem fins lucrativos e realiza ações solidarias que são
 ### [(Clique aqui para visualizar os gifs das sprints)](https://github.com/Iridium-FATEC/PI-IRIDIUM/tree/main/Projeto/P%C3%A1ginas_gifs)
 
 
-![gif1]()
+![gif1](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Projeto/P%C3%A1ginas_gifs/GIF-index.gif)
 
 
 - formatação da páginas doação e doação anonima, além da adição de página de pagamento
@@ -122,13 +122,18 @@ Procedimento para Windows
 
 2 - inicia o wamp precisando ficar verde
 
-3 - clica no icone do wamp na barra de tarefas e depois na opção "www directory", dentro dessa página colar a pasta do projeto PI-RIDIUM ou abrir a pasta de documentos e colar o projeto PI-IRIDIUM na pasta WWW em "Este compudar > Disco Local(C:) > wamp64 > www"(referenciar imagem)
+3 - clica no icone do wamp na barra de tarefas e depois na opção "www directory", dentro dessa página colar a pasta do projeto PI-RIDIUM ou abrir a pasta de documentos e colar o projeto PI-IRIDIUM na pasta WWW em "Este compudar > Disco Local(C:) > wamp64 > www"
+![Ir](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Projeto/P%C3%A1ginas_gifs/explica%C3%A7%C3%A3o-www.png)
+
 
 4 - abre navegador e coloca na aba de pesquisa http://localhost/phpmyadmin
 
 5 - colocar o usuario root, não por senha, escolher opção mysql e dar enter
 
-6 - ir na opção "importar" e puxar o arquivo voluntarios.sql na pasta banco_de_dados do git(referenciar)
+6 - ir na opção "importar" e puxar os arquivos .sql na pasta banco_de_dados do git
+(https://github.com/Iridium-FATEC/PI-IRIDIUM/tree/main/banco_de_dados)
 
-7 - colocar na aba de pesquisa do navegador http://localhost/PI-IRIDIUM/Projeto/html/index.HTML
+7 - colocar na aba de pesquisa do navegador http://localhost/PI-IRIDIUM/Projeto
+
+8 - clicar na opção "html e php"
 
