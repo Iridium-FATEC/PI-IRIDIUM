@@ -22,39 +22,48 @@
                 <ul>
                     <img src="imagens/logo.jpeg" class="logo1">
                     <header>
-                        <li><a href="index.HTML" class="botao">Home</a></li>
+
                         <li><a href="voluntarios.php" class="botao">Voluntários</a></li>
                         <li><a href="participantes.php" class="botao">Participantes</a></li>
                         <li><a href="projetos.php" class="botao">Projetos</a></li>
                         <li><a href="admin.php" class="botao">Admin</a></li>
+                        
                     </header>
                 </ul>        
             </nav>
         </div>
-    </div>
+
         <div id="frase">
             <h2> Fazer o bem muda o mundo!<br>Ensinar uma criança a amar, só é possível amando-a.</h2>
         </div>
     </div>
 
     <fieldset style="padding: 30px 50px">
-        <div style="display: flex; float: left">
+        <div class="menu">
+            <div>
             <a href="doacao.php" id="doe" class="botao">Doe aqui</a>
+            </div>
+
+            <h3 style="width: 100%; display: flex; float: left; height: 70px">Doar  é simples e pode transformar vidas, contribua com qualquer quantia, 
+            o que é pouco para você pode ser tudo para essas crianças.</h3>
+            </div>
+        
+            <div class="carrossel" style="display: flex; float: right">
+                <ul>
+                    <li> 
+                    <img src="imagens/atividades2.jpeg" alt="">
+                    </li>
+                    <li>
+                    <img src="imagens/brincadeira.jpeg" alt="">
+                    </li>
+                    <li>
+                    <img src="imagens/atividades.jpeg"alt="" >
+                    </li>
+                </ul>
+            </div>
+
         </div>
         
-        <div class="carrossel" style="display: flex; float: left">
-            <ul>
-                <li> 
-                <img src="imagens/atividades2.jpeg" alt="">
-                </li>
-                 <li>
-                 <img src="imagens/brincadeira.jpeg" alt="">
-                 </li>
-                 <li>
-                <img src="imagens/atividades.jpeg"alt="" >
-                </li>
-            </ul>
-        </div>
 
         <section id="sobre" style="width: 40.7%; display: flex; float: left; height: 600px;">
             <h1>Sobre nós</h1>

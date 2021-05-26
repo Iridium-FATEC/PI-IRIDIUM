@@ -9,19 +9,20 @@ session_start();
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="css/3style.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="css/normalize.css">
     <link rel="sortcut icon" href="imagens/logo.jpeg" type="image/jpeg"/>
     <title>Voluntarios</title>
 </head>
 
 <body>
-<div class="teo">
+    <div class="teo">
         <div class="main">
             <nav style="display: flex; float: center">
                 <a href="#"></a>
                 <ul>
                     <img src="imagens/logo.jpeg" class="logo1">
                     <header>
-                        <li><a href="index.HTML" class="botao">Home</a></li>
+                        <li><a href="index.php" class="botao">Home</a></li>
                         <li><a href="voluntarios.php" class="botao">Voluntários</a></li>
                         <li><a href="participantes.php" class="botao">Participantes</a></li>
                         <li><a href="projetos.php" class="botao">Projetos</a></li>

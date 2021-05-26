@@ -24,7 +24,7 @@ session_start();
                 <ul>
                     <img src="imagens/logo.jpeg" class="logo1">
                     <header>
-                        <li><a href="index.HTML" class="botao">Home</a></li>
+                        <li><a href="index.php" class="botao">Home</a></li>
                         <li><a href="voluntarios.php" class="botao">Voluntários</a></li>
                         <li><a href="participantes.php" class="botao">Participantes</a></li>
                         <li><a href="projetos.php" class="botao">Projetos</a></li>
