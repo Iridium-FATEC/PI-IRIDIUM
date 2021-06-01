@@ -17,7 +17,7 @@ session_start();
     <title>Participantes</title>
 
 </head>
-
+<!-- Tags para formação do menu fixo, com botões que podem ter o nome alterado dentro das tags<li><a...-->
 <body>
     <div class="teo">
         <div class="main">
@@ -43,6 +43,7 @@ session_start();
             echo $_SESSION['msg'];
             unset($_SESSION['msg'])
         ?>
+        <!--Tags de caixas de texto para aquisição de informações-->
         <form method="POST" action="2processa.php">
             <fieldset>
                 <p><label for="iparticipante">Nome do participante: </label><input type="text" name="paname" id="iparticipante" placeholder="Nome Completo" /></p>

@@ -13,7 +13,7 @@ session_start();
     <link rel="sortcut icon" href="imagens/logo.jpeg" type="image/jpeg"/>
     <title>Voluntarios</title>
 </head>
-
+ <!-- Tags para formação do menu fixo, com botões que podem ter o nome alterado dentro das tags<li><a...-->
 <body>
     <div class="teo">
         <div class="main">
@@ -32,7 +32,7 @@ session_start();
             </nav>
         </div>
     </div>
-    
+    <!--Abaixo titulo-->
     <h2 style="font-weight: 500;">CADASTRO DE VOLUNTARIOS</h2>
     
     
@@ -43,6 +43,7 @@ session_start();
         unset($_SESSION['msg']);
     }
     ?>
+    <!--Tags de caixas de texto para aquisição de informações-->
     <form method="POST" action="processa.php">
         <fieldset id="mensagem">
             <p>Tipo de Voluntário:<input type="text" name="vvoluntario" id="cNome" size="50" maxlength="70" placeholder="Ex: dar aulas, monitoria, atividades recreativas, dentre outros"/></p>

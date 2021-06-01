@@ -18,7 +18,7 @@ session_start();
 </head>
 
 <body >
-
+<!-- Tags para formação do menu fixo, com botões que podem ter o nome alterado dentro das tags<li><a...-->
 <div class="teo">
         <div class="main">
             <nav style="display: flex; float: center">
@@ -40,7 +40,7 @@ session_start();
  <div>              
       <table>
             <tr>
-               
+               <!--titulo-->
                <td><h2>DOAÇÕES</h2></td> 
 
                <td><img  width="75" height="75" src='imagens/donation.png'/></td>
@@ -48,7 +48,7 @@ session_start();
             </tr>
       </table>
  </div>
-
+<!--Abaixo botão que leva para a pagina doação anonima-->
  <form>
     <a href="doacao-anonima.php" class="botao">  DOAÇÃO ANONIMA</a>
     <br> 
@@ -63,7 +63,7 @@ session_start();
         ?>
 
     <form method="POST" action="3processa.php">
-
+<!--Tags de caixas de texto para aquisição de informações-->
         <fieldset>
             <p><label for="cNome">Nome: </label><input  type="text" name="tNome" id="cNome" size="50" maxlength="70" placeholder="João"/></p>
 
@@ -81,7 +81,7 @@ session_start();
 
             <input type="submit" value="Enviar" id="tEnviar" onclick="Enviar">
         </fieldset>
-
+<!--Abaixo frase de efeito-->
         <fieldset>
             <h2>Doe e junte-se a nós!</h2>
         </fieldset>
