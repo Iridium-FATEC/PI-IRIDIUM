@@ -19,7 +19,7 @@ session_start();
     <title>Participantes</title>
 
 </head>
-
+<!-- Tags para formação do menu fixo, com botões que podem ter o nome alterado dentro das tags<li><a...-->
 <body>
     <div class="teo">
         <div class="main">
@@ -37,35 +37,48 @@ session_start();
             </nav>
         </div>
     </div>
-        <h2 style="text-align: center;">Participantes</h2>
+    <h2 style="text-align: center;">Participantes</h2>
         
-        <?php
+    <?php
         if(isset($_SESSION['msg']))
             echo $_SESSION['msg'];
             unset($_SESSION['msg'])
-        ?>
+    ?>
         
-        <div id="form">
-            <form method="POST" action="2processa.php">
-                <fieldset>
-                    <p><label for="iparticipante">Nome do participante: </label><input type="text" name="paname" id="iparticipante" placeholder="Nome Completo" /></p>
-                    <p><label for="icpf">CPF: </label><input type="text" name="pacpf" id="icpf" placeholder="EX: 24375824319" /></p>
-                    <p><label for="idata">Data de nascimento: </label><input type="text" name="ndata" id="idata"  placeholder="EX: 04/02/2010"/></p>
-                    <p><label for="Responsavel">Nome do responsavel: </label><input type="text" name="responsavel" id="iresponsavel" placeholder="Pessoa responsavel" /></p>
-                    <p><label for="iestado">Estado: </label><input type="text" name="esname" id="iestado" placeholder="São Paulo" /></p>
-                    <p><label for="icidade">Cidade: </label><input type="text" name="cname" id="icidade" placeholder="São José dos Campos" /></p>
-                    <p><label for="irua">Rua: </label><input type="text" name="rname" id="irua" placeholder="Airto Pelógia, 184" /></p>
-                    <p><label for="iemail">E-mail: </label><input type="email" name="emname" id="iemail" size="30" placeholder="example@gmail.com" /></p>
-                    <input type="submit" value="Enviar">
-                </fieldset>
-            </form>
+    <!--Tags de caixas de texto para aquisição de informações-->
+    <div id="form">
+        <form method="POST" action="2processa.php">
+            <fieldset>
+                <p><label for="iparticipante">Nome do participante: </label><input type="text" name="paname" id="iparticipante" placeholder="Nome Completo" /></p>
+                <p><label for="icpf">CPF: </label><input type="text" name="pacpf" id="icpf" placeholder="EX: 24375824319" /></p>
+                <p><label for="idata">Data de nascimento: </label><input type="text" name="ndata" id="idata"  placeholder="EX: 04/02/2010"/></p>
+                <p><label for="Responsavel">Nome do responsavel: </label><input type="text" name="responsavel" id="iresponsavel" placeholder="Pessoa responsavel" /></p>
+                <p><label for="iestado">Estado: </label><input type="text" name="esname" id="iestado" placeholder="São Paulo" /></p>
+                <p><label for="icidade">Cidade: </label><input type="text" name="cname" id="icidade" placeholder="São José dos Campos" /></p>
+                <p><label for="irua">Rua: </label><input type="text" name="rname" id="irua" placeholder="Airto Pelógia, 184" /></p>
+                <p><label for="iemail">E-mail: </label><input type="email" name="emname" id="iemail" size="30" placeholder="example@gmail.com" /></p>
+                <input type="submit" value="Enviar">
+            </fieldset>
+        </form>
+    </div>
+
+    <!-- informações da ONG na parte inferior  -->
+    <div style="padding-top: 1%;">
+        <div class="redesSociais" align="center">
+            <a href="https://www.instagram.com/"><img src="imagens/instagram-logo.png" class="logo" width="50" height="50"></a>
+            <a href="https://www.facebook.com/"><img src="imagens/face-logo.png" class="logo" width="50" height="50"></a>
         </div>
 
-        <!-- informações da ONG na parte inferior  -->
-
-
-    </form>
-    
+        <div>
+            <section id="contato">
+                <p>Horário de funcionamento: de Segunda a Sexta, das 7:00h às 17:00h</p>
+                <img src="imagens/mail.png">
+                <p>E-mail: <a href=mailto:exemple@ah.br>exemple@ah.br</a></p>
+                <img src="imagens/tel.png">
+                <p>Contato: <a href=mailto:(12)12345-6789>(12) 12345-6789</a></p>
+            </section>
+        </div>
+    </div>
     
 </body>
 

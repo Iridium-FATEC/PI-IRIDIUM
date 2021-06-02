@@ -15,6 +15,7 @@
 </head>
 
 <body>
+<!--Menu, boltões entre tags <li><a-->
     <div class="teo">
         <div class="main">
             <nav style="display: flex; float: rigth">
@@ -32,7 +33,7 @@
                 </ul>        
             </nav>
         </div>
-
+<!--Frase principal do site, para alterar mudar texto entre tagds <h2>-->
         <div id="frase">
             <h2> Fazer o bem muda o mundo!<br>Ensinar uma criança a amar, só é possível amando-a.</h2>
         </div>
@@ -47,8 +48,8 @@
                 <h3 style="width: 100%; display: flex; float: bottom; height: 70px">Doar  é simples e pode transformar vidas, contribua com qualquer quantia, 
                 o que é pouco para você pode ser tudo para essas crianças.</h3>
             </div>
-        </div>
-        <div class="carrossel">
+        <!--abaixo imagens em movimento, para alterar as imagens coloque a imagem png/jpg na pasta imagens depois altere de acordo com o nome dela o que está entre <img src=>-->
+            <div class="carrossel" style="display: flex; float: right">
                 <ul>
                     <li> 
                     <img src="imagens/atividades2.jpeg" alt="">
@@ -63,7 +64,8 @@
         </div>
         
 
-        <section id="sobre">
+<!--cada section se refere a uma seção de texto, para modificar os textos aletere o que esta dentro das tags <p></p>-->
+        <section id="sobre" style="width: 40.7%; display: flex; float: left; height: 600px;">
             <h1>Sobre nós</h1>
             <p>
                 A ONG vó Maria Felix tem o intuito de receber crianças de 0 a 7 anos para realização de projetos em busca de enriquecimento em suas vidas. 
@@ -113,13 +115,13 @@
                     ajuda muito e pode ajudar ainda mais se conseguir mais voluntários e doações. </p>
             </article>
         </section>
-        
+        <!-- abaixo dentro das tags <div><a segue o link da localização no google-->
         <section id="localizacao" style="display: flex; float: bottom">
             <fieldset><img src="imagens/local.png" width="700" height="400"><br><br>
                 <div><a href="https://goo.gl/maps/NQ99RbYZg7eiTeck6" class="botao">Localização</a></div>
             </fieldset>
         </section>
-
+<!--Para alterar os mantenedores troque "Exemplo de tal", dentro das tags <p> pelo nome desejado-->
         <section id="mantenedores">
             <fieldset>
                 <div>
@@ -129,7 +131,7 @@
                 </div>
             </fieldset>
         </section>
-        
+        <!--Dentro das tags <a href=" ... é colocado o link das redes sociais-->
         <div class="redesSociais" align="center">
             <h2>Redes sociais</h2>
             <a href="https://www.instagram.com/"><img src="imagens/instagram-logo.png" class="logo" width="50" height="50"></a>
@@ -137,7 +139,7 @@
         </div>
     </fieldset>
 
-
+<!-- informações de contato da ong-->
     <div>
         <section id="contato">
             <p>Horário de funcionamento: de Segunda a Sexta, das 7:00h às 17:00h</p>

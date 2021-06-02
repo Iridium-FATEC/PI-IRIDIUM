@@ -19,7 +19,7 @@ session_start();
     
 </head>
 <body>
-    
+    <!-- Tags para formação do menu fixo, com botões que podem ter o nome alterado dentro das tags<li><a...-->
     <div class="teo">
         <div class="main">
             <nav style="display: flex; float: center">
@@ -43,11 +43,13 @@ session_start();
             echo $_SESSION['msg'];
             unset($_SESSION['msg'])
     ?>
+    
         <form id="CadastroP" method="POST" action="5processa.php">
             <div>
                 <h1 >Cadastro de Projetos</h1> 
             </div>
             <fieldset id="Projeto">
+               <!--Tags de caixas de texto para aquisição de informações-->
                 <p><label for="cVoluntario">Nome do Voluntário: </label><input type="text" name="tVoluntario" id="cVoluntario" placeholder="Exemplo De Tal"/></p>
                 <p><label for="ccpf">CPF do Voluntário: </label><input type="text" name="tcpf" id="ccpf" placeholder="Ex: 22233344456"/></p>
                 <p><label for="cEmail">E-mail do voluntário </label><input type="email" name="tEmail" id="cEmail" placeholder="exemple@tal.com"/></p>
