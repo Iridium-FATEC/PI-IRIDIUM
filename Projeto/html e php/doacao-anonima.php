@@ -36,16 +36,16 @@ session_start();
     </div>
 
     <div>             
-            <table>
-                    <tr>
+        <table>
+            <tr>
                     
-                        <td><h2>DOAÇÕES ANONIMAS</h2></td> 
+                <td><h2>DOAÇÕES ANONIMAS</h2></td> 
 
-                        <td><img style="text-align: center;" width="75" height="75" src='imagens/anonymous.png'/></td>
+                <td><img style="text-align: center;" width="75" height="75" src='imagens/anonymous.png'/></td>
             
-                    </tr>
-            </table>
-        </div> 
+            </tr>
+        </table>
+    </div> 
 
         <?php
         if(isset($_SESSION['msg']))

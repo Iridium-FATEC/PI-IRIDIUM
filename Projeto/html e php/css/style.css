@@ -83,16 +83,16 @@ header p {
 
 #sobre {
     display: flex;
+    float: left;
     flex-direction: column;
-    align-items: left;
     text-align: left;
     padding: 10px 50px;
-    margin-right: 20;
-    background-color: white;
     color: black;
-    /*width: 65%;*/
+    width: 40.7%;
+    min-height: 600px;
     background-color: #ffffff;
     box-shadow: 0 0 5px #000;
+    margin: 0;
 }
 
 #sobre p {
@@ -154,13 +154,16 @@ header p {
 
 #voluntários {
     display: flex;
+    float: left;
     flex-direction: column;
     align-items: center;
     text-align: left;
     padding: 10px 50px ;
     color: #000;
     box-shadow: 0 0 5px #000;
-    /*width: 65%;*/
+    width: 40.7%;
+    min-height: 600px;
+
 }
 
 #frase {
@@ -239,3 +242,12 @@ header p {
     width: 600px;
 
 }
+
+#form {
+    width: 80%;
+    display: flex;
+    padding: 5%;
+    padding-bottom: 0%;
+    align-items: center;
+}
+

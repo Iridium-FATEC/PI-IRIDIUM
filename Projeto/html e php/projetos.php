@@ -27,10 +27,9 @@ session_start();
                 <ul>
                     <img src="imagens/logo.jpeg" class="logo1">
                     <header>
-                        <li><a href="index.php" class="botao">Home</a></li>
                         <li><a href="voluntarios.php" class="botao">Voluntários</a></li>
                         <li><a href="participantes.php" class="botao">Participantes</a></li>
-                        <li><a href="projetos.php" class="botao">Projetos</a></li>
+                        <li><a href="index.php" class="botao">Home</a></li>
                         <li><a href="admin.php" class="botao">Admin</a></li>
                     </header>
                 </ul>        
@@ -61,5 +60,23 @@ session_start();
         </form>
     </nav>
     
+    <div style="padding-top: 1%;">
+        <div class="redesSociais" align="center">
+            <a href="https://www.instagram.com/"><img src="imagens/instagram-logo.png" class="logo" width="50" height="50"></a>
+            <a href="https://www.facebook.com/"><img src="imagens/face-logo.png" class="logo" width="50" height="50"></a>
+        </div>
+
+        <div>
+            <section id="contato">
+                <p>Horário de funcionamento: de Segunda a Sexta, das 7:00h às 17:00h</p>
+                <img src="imagens/mail.png">
+                <p>E-mail: <a href=mailto:exemple@ah.br>exemple@ah.br</a></p>
+                <img src="imagens/tel.png">
+                <p>Contato: <a href=mailto:(12)12345-6789>(12) 12345-6789</a></p>
+            </section>
+        </div>
+    </div>
+    
+
 </body>
 </html>

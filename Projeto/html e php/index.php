@@ -17,7 +17,7 @@
 <body>
     <div class="teo">
         <div class="main">
-            <nav style="display: flex; float: center">
+            <nav style="display: flex; float: rigth">
                 <a href="#"></a>
                 <ul>
                     <img src="imagens/logo.jpeg" class="logo1">
@@ -41,14 +41,14 @@
     <fieldset style="padding: 30px 50px">
         <div class="menu">
             <div>
-            <a href="doacao.php" id="doe" class="botao">Doe aqui</a>
+                <a href="doacao.php" id="doe" class="botao">Doe aqui</a>
             </div>
-
-            <h3 style="width: 100%; display: flex; float: left; height: 70px">Doar  é simples e pode transformar vidas, contribua com qualquer quantia, 
-            o que é pouco para você pode ser tudo para essas crianças.</h3>
+            <div>
+                <h3 style="width: 100%; display: flex; float: bottom; height: 70px">Doar  é simples e pode transformar vidas, contribua com qualquer quantia, 
+                o que é pouco para você pode ser tudo para essas crianças.</h3>
             </div>
-        
-            <div class="carrossel" style="display: flex; float: right">
+        </div>
+        <div class="carrossel">
                 <ul>
                     <li> 
                     <img src="imagens/atividades2.jpeg" alt="">
@@ -60,12 +60,10 @@
                     <img src="imagens/atividades.jpeg"alt="" >
                     </li>
                 </ul>
-            </div>
-
         </div>
         
 
-        <section id="sobre" style="width: 40.7%; display: flex; float: left; height: 600px;">
+        <section id="sobre">
             <h1>Sobre nós</h1>
             <p>
                 A ONG vó Maria Felix tem o intuito de receber crianças de 0 a 7 anos para realização de projetos em busca de enriquecimento em suas vidas. 
@@ -80,7 +78,7 @@
     
         </section>
 
-        <section id="voluntários" style="height: 600px;width: 40.7%; display: flex; float: left">
+        <div id="voluntários">
             <h1>Voluntários</h1>
             <p>
                 Quantas pessoas, de maneira voluntária, sem buscar um reconhecimento, fazem algo pelas pessoas carentes ?                                                                                                                                   Pelo simples fato de querer ajudar o próximo, posso afirmar que muitos se doam a esse voluntariado, e garanto que a grande maioria não tenha dinheiro sobrando ou patrocínio para isso. Acredito que ninguém é tão pobre que não possa doar por alguns minutos do seu dia para ajudar uma ONG ou alguém próximo que esteja precisando muito.                                                                                                                                                              Em muitas situações, o simples fato de parar e ouvir uma história de vida, já faz uma grande diferença no seu dia. O voluntariado faz com que sua vida seja mais leve, e você pode estar se perguntando: Mas onde posso ajudar? Com quem posso falar?  
@@ -89,7 +87,7 @@
                 Assim, buscando colaboração de voluntários.<br>                                                                                                             Para ser voluntário ou implementar algum projeto de caráter de assistência, educativo, social, cultural ou que possa contribuir para o bem dessas crianças de alguma forma ,deve entrar em contato conosco e seguir a triagem necessária para a realização da doação.                                                                                                                            O objetivo da ONG é integrar essas crianças socialmente em novos ambientes e situações, fazendo com que o cotidiano delas seja repleto de experiencias de grande valor.
                 Seja um Voluntário !!!
             </p>
-        </section>
+        </div>
        
         <section id="participantes" style="width: 90%; display: flex; float: center">
             <article>

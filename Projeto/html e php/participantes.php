@@ -11,6 +11,8 @@ session_start();
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Asap:ital,wght@1,600&family=Nunito:ital,wght@1,800&family=Yellowtail&display=swap" rel="stylesheet">
     <link href="css/3style.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="css/normalize.css">
     <link rel="stylesheet" type="text/css" href="css/style.css">
@@ -26,9 +28,8 @@ session_start();
                 <ul>
                     <img src="imagens/logo.jpeg" class="logo1">
                     <header>
-                        <li><a href="index.php" class="botao">Home</a></li>
                         <li><a href="voluntarios.php" class="botao">Voluntários</a></li>
-                        <li><a href="participantes.php" class="botao">Participantes</a></li>
+                        <li><a href="index.php" class="botao">Home</a></li>
                         <li><a href="projetos.php" class="botao">Projetos</a></li>
                         <li><a href="admin.php" class="botao">Admin</a></li>
                     </header>
@@ -36,13 +37,16 @@ session_start();
             </nav>
         </div>
     </div>
-        <h2 style="text-align: center;">Participantes</h2>
         
-        <?php
+    <h2 style="text-align: center;">Participantes</h2>
+        
+    <?php
         if(isset($_SESSION['msg']))
             echo $_SESSION['msg'];
             unset($_SESSION['msg'])
-        ?>
+    ?>
+        
+    <div>
         <form method="POST" action="2processa.php">
             <fieldset>
                 <p><label for="iparticipante">Nome do participante: </label><input type="text" name="paname" id="iparticipante" placeholder="Nome Completo" /></p>
@@ -56,14 +60,26 @@ session_start();
                 <input type="submit" value="Enviar">
             </fieldset>
         </form>
-        <!-- informações da ONG na parte inferior  -->
-        <fieldset id="pcontatos">
-            <p>E-mail: <a href=mailto:administracao@aamu.org.br>vomariafelix@cecoi.org.br</a></p>
-            <p>Contato: <a href=mailto:(12)91234-5678>(12) 91234-5678</a></p>
-        </fieldset>
+    </div>
 
-    </form>
-    
+    <!-- informações da ONG na parte inferior  -->
+
+    <div style="padding-top: 1%;">
+        <div class="redesSociais" align="center">
+            <a href="https://www.instagram.com/"><img src="imagens/instagram-logo.png" class="logo" width="50" height="50"></a>
+            <a href="https://www.facebook.com/"><img src="imagens/face-logo.png" class="logo" width="50" height="50"></a>
+        </div>
+
+        <div>
+            <section id="contato">
+                <p>Horário de funcionamento: de Segunda a Sexta, das 7:00h às 17:00h</p>
+                <img src="imagens/mail.png">
+                <p>E-mail: <a href=mailto:exemple@ah.br>exemple@ah.br</a></p>
+                <img src="imagens/tel.png">
+                <p>Contato: <a href=mailto:(12)12345-6789>(12) 12345-6789</a></p>
+            </section>
+        </div>
+    </div>
     
 </body>
 
