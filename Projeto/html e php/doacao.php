@@ -12,8 +12,8 @@ session_start();
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Asap:ital,wght@1,600&family=Nunito:ital,wght@1,800&family=Yellowtail&display=swap" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="css/normalize.css">
     <link href="css/3style.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="css/normalize.css">
     <link href="css/style.css" rel="stylesheet">
     <link rel="sortcut icon" href="imagens/logo.jpeg" type="image/jpeg"/>
     <title>Doação</title>
@@ -22,7 +22,7 @@ session_start();
 
 <body >
 
-    <div class="teo">
+<div class="teo">
         <div class="main">
             <nav style="display: flex; float: center">
                 <a href="#"></a>
@@ -40,16 +40,30 @@ session_start();
         </div>
     </div>
    
-    <div>                             
-        <h2>DOAÇÕES</h2>
-        <img id="imagem"width="75" height="75" src='imagens/donation.png'/>
-        <a href="doacao-anonima.php" class="botao"> DOAÇÃO ANONIMA</a>
-    </div>
-    <?php
+ <div>              
+      <table>
+            <tr>
+               
+               <td><h2>DOAÇÕES</h2></td> 
+
+               <td><img  width="75" height="75" src='imagens/donation.png'/></td>
+    
+            </tr>
+      </table>
+ </div>
+
+ <form>
+    <a href="doacao-anonima.php" class="botao">  DOAÇÃO ANONIMA</a>
+    <br> 
+    <br>
+
+ </form>   
+
+        <?php
         if(isset($_SESSION['msg']))
             echo $_SESSION['msg'];
             unset($_SESSION['msg'])
-    ?>
+        ?>
 
     <form method="POST" action="3processa.php">
 
@@ -69,13 +83,10 @@ session_start();
             <p>R$ <input type="text" name="quantity" step="5.0" min="5.0" placeholder="insira o valor a ser doado"></p>
 
             <input type="submit" value="Enviar" id="tEnviar" onclick="Enviar">
-
-            <h2>Doe e junte-se a nós!</h2>
-
         </fieldset>
 
-
-    
+        <h2>Doe e junte-se a nós!</h2>
+        
     </form>
 
 
@@ -95,8 +106,6 @@ session_start();
             </section>
         </div>
     </div>
-    
-
-</body>
+    </body>
 
 </html>
