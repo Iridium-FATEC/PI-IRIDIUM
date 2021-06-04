@@ -9,7 +9,7 @@ session_start();
 
     <link rel="sortcut icon" href="imagens/logo.jpeg" type="image/jpeg" />
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">[
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Asap:ital,wght@1,600&family=Nunito:ital,wght@1,800&family=Yellowtail&display=swap" rel="stylesheet">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -46,7 +46,7 @@ session_start();
     ?>
         
     <!--Tags de caixas de texto para aquisição de informações-->
-    <div id="form">
+    <div>
         <form method="POST" action="2processa.php">
             <fieldset>
                 <p><label for="iparticipante">Nome do participante: </label><input type="text" name="paname" id="iparticipante" placeholder="Nome Completo" /></p>

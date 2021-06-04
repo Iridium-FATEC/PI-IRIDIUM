@@ -33,7 +33,7 @@
                 </ul>        
             </nav>
         </div>
-<!--Frase principal do site, para alterar mudar texto entre tagds <h2>-->
+        <!--Frase principal do site, para alterar mudar texto entre tagds <h2>-->
         <div id="frase">
             <h2> Fazer o bem muda o mundo!<br>Ensinar uma criança a amar, só é possível amando-a.</h2>
         </div>
@@ -48,23 +48,25 @@
                 <h3 style="width: 100%; display: flex; float: bottom; height: 70px">Doar  é simples e pode transformar vidas, contribua com qualquer quantia, 
                 o que é pouco para você pode ser tudo para essas crianças.</h3>
             </div>
+        </div>
         <!--abaixo imagens em movimento, para alterar as imagens coloque a imagem png/jpg na pasta imagens depois altere de acordo com o nome dela o que está entre <img src=>-->
-            <div class="carrossel" style="display: flex; float: right">
-                <ul>
-                    <li> 
-                    <img src="imagens/atividades2.jpeg" alt="">
-                    </li>
-                    <li>
-                    <img src="imagens/brincadeira.jpeg" alt="">
-                    </li>
-                    <li>
-                    <img src="imagens/atividades.jpeg"alt="" >
-                    </li>
-                </ul>
+        <div class="carrossel" style="display: flex; float: left">
+            <ul>
+                <li> 
+                <img src="imagens/atividades2.jpeg" alt="">
+                </li>
+                <li>
+                <img src="imagens/brincadeira.jpeg" alt="">
+                </li>
+                <li>
+                <img src="imagens/atividades.jpeg"alt="" >
+                </li>
+            </ul>
         </div>
         
+        
 
-<!--cada section se refere a uma seção de texto, para modificar os textos aletere o que esta dentro das tags <p></p>-->
+        <!--cada section se refere a uma seção de texto, para modificar os textos aletere o que esta dentro das tags <p></p>-->
         <section id="sobre" style="width: 40.7%; display: flex; float: left; height: 600px;">
             <h1>Sobre nós</h1>
             <p>
@@ -121,7 +123,7 @@
                 <div><a href="https://goo.gl/maps/NQ99RbYZg7eiTeck6" class="botao">Localização</a></div>
             </fieldset>
         </section>
-<!--Para alterar os mantenedores troque "Exemplo de tal", dentro das tags <p> pelo nome desejado-->
+        <!--Para alterar os mantenedores troque "Exemplo de tal", dentro das tags <p> pelo nome desejado-->
         <section id="mantenedores">
             <fieldset>
                 <div>
@@ -139,7 +141,7 @@
         </div>
     </fieldset>
 
-<!-- informações de contato da ong-->
+    <!-- informações de contato da ong-->
     <div>
         <section id="contato">
             <p>Horário de funcionamento: de Segunda a Sexta, das 7:00h às 17:00h</p>

@@ -29,7 +29,7 @@
             <a href="ad-banco-doacao.php"><div class="link">Doação</div></a>
             <a href="ad-banco-doacao-anonima.php"><div class="link">Doação anonima</div></a>
             <a href="ad-banco-voluntario.php"><div class="link">Voluntarios</div></a>
-            <a href="index.html"><div class="link">Voltar</div></a>
+            <a href="index.php"><div class="link">Voltar</div></a>
 
         </nav>
 
@@ -79,7 +79,7 @@
 
             </tbody>
         </table>
-    </div>>
+    </div>
 
 </body>
 
