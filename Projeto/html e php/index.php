@@ -26,7 +26,7 @@
                         <li><a href="voluntarios.php" class="botao">Voluntários</a></li>
                         <li><a href="participantes.php" class="botao">Participantes</a></li>
                         <li><a href="projetos.php" class="botao">Projetos</a></li>
-                        <li><a href="admin.php" class="botao">Admin</a></li>
+                        <li><a href="ad-login.php" class="botao">Admin</a></li>
                     </header>
                 </ul>        
             </nav>
@@ -123,7 +123,7 @@
             </fieldset>
         </section>
         
-        <div class="redesSociais" align="center">
+        <div class="redesSociais" aling="center">
             <h2>Redes sociais</h2>
             <a href="https://www.instagram.com/"><img src="imagens/instagram-logo.png" class="logo" width="50" height="50"></a>
             <a href="https://www.facebook.com/"><img src="imagens/face-logo.png" class="logo" width="50" height="50"></a>
