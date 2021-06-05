@@ -19,18 +19,17 @@ session_start();
     
 </head>
 <body>
-    
-<div class="teo">
+    <!-- Tags para formação do menu fixo, com botões que podem ter o nome alterado dentro das tags<li><a...-->
+    <div class="teo">
         <div class="main">
             <nav style="display: flex; float: center">
                 <a href="#"></a>
                 <ul>
                     <img src="imagens/logo.jpeg" class="logo1">
                     <header>
-                        <li><a href="index.HTML" class="botao">Home</a></li>
                         <li><a href="voluntarios.php" class="botao">Voluntários</a></li>
                         <li><a href="participantes.php" class="botao">Participantes</a></li>
-                        <li><a href="projetos.php" class="botao">Projetos</a></li>
+                        <li><a href="index.php" class="botao">Home</a></li>
                         <li><a href="admin.php" class="botao">Admin</a></li>
                     </header>
                 </ul>        
@@ -44,11 +43,13 @@ session_start();
             echo $_SESSION['msg'];
             unset($_SESSION['msg'])
     ?>
+    
         <form id="CadastroP" method="POST" action="5processa.php">
             <div>
                 <h1 >Cadastro de Projetos</h1> 
             </div>
             <fieldset id="Projeto">
+               <!--Tags de caixas de texto para aquisição de informações-->
                 <p><label for="cVoluntario">Nome do Voluntário: </label><input type="text" name="tVoluntario" id="cVoluntario" placeholder="Exemplo De Tal"/></p>
                 <p><label for="ccpf">CPF do Voluntário: </label><input type="text" name="tcpf" id="ccpf" placeholder="Ex: 22233344456"/></p>
                 <p><label for="cEmail">E-mail do voluntário </label><input type="email" name="tEmail" id="cEmail" placeholder="exemple@tal.com"/></p>
@@ -61,5 +62,23 @@ session_start();
         </form>
     </nav>
     
+    <div style="padding-top: 1%;">
+        <div class="redesSociais" align="center">
+            <a href="https://www.instagram.com/"><img src="imagens/instagram-logo.png" class="logo" width="50" height="50"></a>
+            <a href="https://www.facebook.com/"><img src="imagens/face-logo.png" class="logo" width="50" height="50"></a>
+        </div>
+
+        <div>
+            <section id="contato">
+                <p>Horário de funcionamento: de Segunda a Sexta, das 7:00h às 17:00h</p>
+                <img src="imagens/mail.png">
+                <p>E-mail: <a href=mailto:exemple@ah.br>exemple@ah.br</a></p>
+                <img src="imagens/tel.png">
+                <p>Contato: <a href=mailto:(12)12345-6789>(12) 12345-6789</a></p>
+            </section>
+        </div>
+    </div>
+    
+
 </body>
 </html>

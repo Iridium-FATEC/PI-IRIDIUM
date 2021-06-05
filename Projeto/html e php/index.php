@@ -15,14 +15,15 @@
 </head>
 
 <body>
+<!--Menu, boltões entre tags <li><a-->
     <div class="teo">
         <div class="main">
-            <nav style="display: flex; float: center">
+            <nav style="display: flex; float: rigth">
                 <a href="#"></a>
                 <ul>
                     <img src="imagens/logo.jpeg" class="logo1">
                     <header>
-                        <li><a href="index.HTML" class="botao">Home</a></li>
+
                         <li><a href="voluntarios.php" class="botao">Voluntários</a></li>
                         <li><a href="participantes.php" class="botao">Participantes</a></li>
                         <li><a href="projetos.php" class="botao">Projetos</a></li>
@@ -31,31 +32,40 @@
                 </ul>        
             </nav>
         </div>
-    </div>
+        <!--Frase principal do site, para alterar mudar texto entre tagds <h2>-->
         <div id="frase">
             <h2> Fazer o bem muda o mundo!<br>Ensinar uma criança a amar, só é possível amando-a.</h2>
         </div>
     </div>
 
     <fieldset style="padding: 30px 50px">
-        <div style="display: flex; float: left">
-            <a href="doacao.php" id="doe" class="botao">Doe aqui</a>
+        <div class="menu">
+            <div>
+                <a href="doacao.php" id="doe" class="botao">Doe aqui</a>
+            </div>
+            <div>
+                <h3 style="width: 100%; display: flex; float: bottom; height: 70px">Doar  é simples e pode transformar vidas, contribua com qualquer quantia, 
+                o que é pouco para você pode ser tudo para essas crianças.</h3>
+            </div>
         </div>
-        
+        <!--abaixo imagens em movimento, para alterar as imagens coloque a imagem png/jpg na pasta imagens depois altere de acordo com o nome dela o que está entre <img src=>-->
         <div class="carrossel" style="display: flex; float: left">
             <ul>
                 <li> 
                 <img src="imagens/atividades2.jpeg" alt="">
                 </li>
-                 <li>
-                 <img src="imagens/brincadeira.jpeg" alt="">
-                 </li>
-                 <li>
+                <li>
+                <img src="imagens/brincadeira.jpeg" alt="">
+                </li>
+                <li>
                 <img src="imagens/atividades.jpeg"alt="" >
                 </li>
             </ul>
         </div>
+        
+        
 
+        <!--cada section se refere a uma seção de texto, para modificar os textos aletere o que esta dentro das tags <p></p>-->
         <section id="sobre" style="width: 40.7%; display: flex; float: left; height: 600px;">
             <h1>Sobre nós</h1>
             <p>
@@ -71,7 +81,7 @@
     
         </section>
 
-        <section id="voluntários" style="height: 600px;width: 40.7%; display: flex; float: left">
+        <div id="voluntários">
             <h1>Voluntários</h1>
             <p>
                 Quantas pessoas, de maneira voluntária, sem buscar um reconhecimento, fazem algo pelas pessoas carentes ?                                                                                                                                   Pelo simples fato de querer ajudar o próximo, posso afirmar que muitos se doam a esse voluntariado, e garanto que a grande maioria não tenha dinheiro sobrando ou patrocínio para isso. Acredito que ninguém é tão pobre que não possa doar por alguns minutos do seu dia para ajudar uma ONG ou alguém próximo que esteja precisando muito.                                                                                                                                                              Em muitas situações, o simples fato de parar e ouvir uma história de vida, já faz uma grande diferença no seu dia. O voluntariado faz com que sua vida seja mais leve, e você pode estar se perguntando: Mas onde posso ajudar? Com quem posso falar?  
@@ -80,7 +90,7 @@
                 Assim, buscando colaboração de voluntários.<br>                                                                                                             Para ser voluntário ou implementar algum projeto de caráter de assistência, educativo, social, cultural ou que possa contribuir para o bem dessas crianças de alguma forma ,deve entrar em contato conosco e seguir a triagem necessária para a realização da doação.                                                                                                                            O objetivo da ONG é integrar essas crianças socialmente em novos ambientes e situações, fazendo com que o cotidiano delas seja repleto de experiencias de grande valor.
                 Seja um Voluntário !!!
             </p>
-        </section>
+        </div>
        
         <section id="participantes" style="width: 90%; display: flex; float: center">
             <article>
@@ -106,13 +116,13 @@
                     ajuda muito e pode ajudar ainda mais se conseguir mais voluntários e doações. </p>
             </article>
         </section>
-        
+        <!-- abaixo dentro das tags <div><a segue o link da localização no google-->
         <section id="localizacao" style="display: flex; float: bottom">
             <fieldset><img src="imagens/local.png" width="700" height="400"><br><br>
                 <div><a href="https://goo.gl/maps/NQ99RbYZg7eiTeck6" class="botao">Localização</a></div>
             </fieldset>
         </section>
-
+        <!--Para alterar os mantenedores troque "Exemplo de tal", dentro das tags <p> pelo nome desejado-->
         <section id="mantenedores">
             <fieldset>
                 <div>
@@ -122,7 +132,7 @@
                 </div>
             </fieldset>
         </section>
-        
+        <!--Dentro das tags <a href=" ... é colocado o link das redes sociais-->
         <div class="redesSociais" aling="center">
             <h2>Redes sociais</h2>
             <a href="https://www.instagram.com/"><img src="imagens/instagram-logo.png" class="logo" width="50" height="50"></a>
@@ -130,7 +140,7 @@
         </div>
     </fieldset>
 
-
+    <!-- informações de contato da ong-->
     <div>
         <section id="contato">
             <p>Horário de funcionamento: de Segunda a Sexta, das 7:00h às 17:00h</p>
