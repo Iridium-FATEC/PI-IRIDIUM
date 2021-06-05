@@ -1,5 +1,5 @@
 <?php
- session_start();
+session_start();
 ?>
 
 <!DOCTYPE html>
@@ -16,7 +16,7 @@
 
 <body>
     
-    <form class="form" method="POST" action="validade.php">
+    <form class="form" method="POST" action="ad-login-sistema.php">
         <div class="card">
             <div class="card-top">
                 <img class="imglogin" src="imagens/logo.jpeg" alt="">
@@ -25,7 +25,7 @@
 
             <div class="card-group">
                 <label>Email</label>
-                <input type="email" name="email" placeholder="Digite seu email" required>
+                <input type="email" name="usuario" placeholder="Digite seu email" required>
             </div>
 
             <div class="card-group">
@@ -39,12 +39,6 @@
 
         </div>
     </form>
-    <p class="text-center text-danger">
-        <?php if(isset($_SESSION['loginErro'])){
-            echo $_SESSION['loginErro'];
-            unset ($_SESSION['loginErro']);
-        }?>
-    </p>    
 
 </body>
 </html>

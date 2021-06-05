@@ -63,7 +63,7 @@ session_start();
     </nav>
     
     <div style="padding-top: 1%;">
-        <div class="redesSociais" align="center">
+        <div class="redesSociais" aling="center">
             <a href="https://www.instagram.com/"><img src="imagens/instagram-logo.png" class="logo" width="50" height="50"></a>
             <a href="https://www.facebook.com/"><img src="imagens/face-logo.png" class="logo" width="50" height="50"></a>
         </div>
