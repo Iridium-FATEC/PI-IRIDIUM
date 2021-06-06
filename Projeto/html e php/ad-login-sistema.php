@@ -3,11 +3,6 @@ session_start();
 // local onde vai validar o usuario e senha do login
 include('loginConexao.php');
 
-if(empty($_POST['usuario']) || empty($_POST['senha'])) {
-    header('Location: loginConexao.php');
-    exit();
-}
-
 $usuario = mysqli_real_escape_string($conexao, $_POST['usuario']);
 $senha = mysqli_real_escape_string($conexao, $_POST['senha']);
 

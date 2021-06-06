@@ -1,6 +1,5 @@
 <?php
 session_start();
-include('verifica_login.php');
 ?>
 
 <!DOCTYPE html>
@@ -30,7 +29,7 @@ include('verifica_login.php');
             <a href="ad-banco-doacao.php"><div class="link">Doação</div></a>
             <a href="ad-banco-doacao-anonima.php"><div class="link">Doação anonima</div></a>
             <a href="ad-banco-voluntario.php"><div class="link">Voluntarios</div></a>
-            <a href="index.php"><div class="link">Voltar</div></a>
+            <a href="logout.php"><div class="link">Sair</div></a>
 
         </nav>
 
