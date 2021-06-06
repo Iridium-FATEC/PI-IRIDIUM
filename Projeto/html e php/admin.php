@@ -35,7 +35,11 @@ session_start();
 
     </div> 
 
-    <div style='text-align:center'>
+    <div class="imagens">
+
+        <center><img src="imagens/manual-pt1" width="45%">
+        <center><img src="imagens/manual-pt2" width="35%">
+        <center><img src="imagens/manual-pt3" width="35%">
 
             
     </div>

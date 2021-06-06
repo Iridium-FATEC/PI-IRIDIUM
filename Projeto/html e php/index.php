@@ -137,8 +137,7 @@
         <!--Dentro das tags <a href=" ... é colocado o link das redes sociais-->
         <div class="redesSociais" aling="center">
             <h2>Redes sociais</h2>
-            <a href="https://www.instagram.com/"><img src="imagens/instagram-logo.png" class="logo" width="50" height="50"></a>
-            <a href="https://www.facebook.com/"><img src="imagens/face-logo.png" class="logo" width="50" height="50"></a>
+            <center><a href="https://www.instagram.com/"><img src="imagens/instagram-logo.png" class="logo" width="50" height="50"></a><a href="https://www.facebook.com/"><img src="imagens/face-logo.png" class="logo" width="50" height="50"></a>
         </div>
     </fieldset>
 
