@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1:3306
--- Tempo de geração: 05-Jun-2021 às 20:14
+-- Tempo de geração: 06-Jun-2021 às 18:24
 -- Versão do servidor: 5.7.31
 -- versão do PHP: 7.4.9
 
@@ -24,22 +24,22 @@ SET time_zone = "+00:00";
 -- --------------------------------------------------------
 
 --
--- Estrutura da tabela `sistema`
+-- Estrutura da tabela `usuario`
 --
 
-DROP TABLE IF EXISTS `sistema`;
-CREATE TABLE IF NOT EXISTS `sistema` (
-  `usuario id` int(1) NOT NULL AUTO_INCREMENT,
-  `usuario` varchar(200) DEFAULT NULL,
-  `senha` varchar(32) DEFAULT NULL,
-  PRIMARY KEY (`usuario id`)
+DROP TABLE IF EXISTS `usuario`;
+CREATE TABLE IF NOT EXISTS `usuario` (
+  `usuario_id` int(11) NOT NULL AUTO_INCREMENT,
+  `usuario` varchar(200) NOT NULL,
+  `senha` varchar(32) NOT NULL,
+  PRIMARY KEY (`usuario_id`)
 ) ENGINE=MyISAM AUTO_INCREMENT=3 DEFAULT CHARSET=latin1;
 
 --
--- Extraindo dados da tabela `sistema`
+-- Extraindo dados da tabela `usuario`
 --
 
-INSERT INTO `sistema` (`usuario id`, `usuario`, `senha`) VALUES
+INSERT INTO `usuario` (`usuario_id`, `usuario`, `senha`) VALUES
 (1, 'iridium@gmail.com', '3ad6dbd7f0bad3f64f460f741bfe7ae0');
 COMMIT;
 

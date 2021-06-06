@@ -3,7 +3,7 @@ margin:0;padding:0;
 
 }
 .carrossel{
-  width: 400px;
+  width: 350px;
   height:250px;
   outline: 3px solid black;
   overflow: hidden;
@@ -20,17 +20,15 @@ margin:0;padding:0;
 }
 .carrossel li{
 position: relative;
-animation: slide 15s infinite ease-out;
+animation: slide 20s infinite ease-out;
 }
 
 @keyframes slide{
+  100%{left:-60px}
   0%{left:0px}
-  20%{left:0px}
-  30%{left:-400px}
-  50%{left:-400px}
-  60%{left:-850px}
-  90%{left:-800px}
-  100%{left:0px}
+  30%{left:-500px} 
+  60%{left:-950px} 
+  100%{left:-60px}
 }
 
 

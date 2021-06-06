@@ -33,7 +33,7 @@ session_start();
                         <li><a href="voluntarios.php" class="botao">Voluntários</a></li>
                         <li><a href="participantes.php" class="botao">Participantes</a></li>
                         <li><a href="projetos.php" class="botao">Projetos</a></li>
-                        <li><a href="admin.php" class="botao">Admin</a></li>
+                        <li><a href="ad-login.php" class="botao">Admin</a></li>
                     </header>
                 </ul>        
             </nav>

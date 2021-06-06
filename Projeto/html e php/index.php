@@ -38,18 +38,17 @@
         </div>
     </div>
 
-    <fieldset style="padding: 30px 50px">
+    <fieldset style="padding: 30px 50px;">
         <div class="menu">
-            <div>
+            <div style="padding: 60px">
                 <a href="doacao.php" id="doe" class="botao">Doe aqui</a>
-            </div>
-            <div>
+                
                 <h3 style="width: 100%; display: flex; float: bottom; height: 70px">Doar  é simples e pode transformar vidas, contribua com qualquer quantia, 
                 o que é pouco para você pode ser tudo para essas crianças.</h3>
             </div>
         </div>
         <!--abaixo imagens em movimento, para alterar as imagens coloque a imagem png/jpg na pasta imagens depois altere de acordo com o nome dela o que está entre <img src=>-->
-        <div class="carrossel" style="display: flex; float: left">
+        <div class="carrossel" style="padding: 0px 30px">
             <ul>
                 <li> 
                 <img src="imagens/atividades2.jpeg" alt="">
@@ -62,11 +61,14 @@
                 </li>
             </ul>
         </div>
-        
+    </fieldset>
+    
+    <fieldset style="padding: 60px 0px; margin: auto;">    
         
 
         <!--cada section se refere a uma seção de texto, para modificar os textos aletere o que esta dentro das tags <p></p>-->
-        <section id="sobre" style="width: 40.7%; display: flex; float: left; height: 600px;">
+        
+        <section id="sobre" style="width: 42.2%; display: flex; float: left;">
             <h1>Sobre nós</h1>
             <p>
                 A ONG vó Maria Felix tem o intuito de receber crianças de 0 a 7 anos para realização de projetos em busca de enriquecimento em suas vidas. 
@@ -81,7 +83,7 @@
     
         </section>
 
-        <div id="voluntários">
+        <div id="voluntários" style="width: 42.2%">
             <h1>Voluntários</h1>
             <p>
                 Quantas pessoas, de maneira voluntária, sem buscar um reconhecimento, fazem algo pelas pessoas carentes ?                                                                                                                                   Pelo simples fato de querer ajudar o próximo, posso afirmar que muitos se doam a esse voluntariado, e garanto que a grande maioria não tenha dinheiro sobrando ou patrocínio para isso. Acredito que ninguém é tão pobre que não possa doar por alguns minutos do seu dia para ajudar uma ONG ou alguém próximo que esteja precisando muito.                                                                                                                                                              Em muitas situações, o simples fato de parar e ouvir uma história de vida, já faz uma grande diferença no seu dia. O voluntariado faz com que sua vida seja mais leve, e você pode estar se perguntando: Mas onde posso ajudar? Com quem posso falar?  
@@ -92,7 +94,7 @@
             </p>
         </div>
        
-        <section id="participantes" style="width: 90%; display: flex; float: center">
+        <section id="participantes" style="width: 92%; display: flex; float: center">
             <article>
                 <h1>História de uma aluna da Vó Maria Felix</h1>
                 <p><b>Motivos para uma criança ser participante:</b> O período da primeira infância é muito importante 
