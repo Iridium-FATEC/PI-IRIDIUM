@@ -107,7 +107,7 @@
                     As crianças participantes desenvolvem atividades educacionais, esportivas e recreativas, 
                     entre outras modalidades de acordo com os projetos e parcerias da ONG. Elas são monitoradas 
                     por voluntários preparados sendo divididas por faixa etária, seguindo cronogramas para melhor 
-                    aproveitamento do tempo incluindo horário de lanche.</p>>
+                    aproveitamento do tempo incluindo horário de lanche.</p>
                     Relato de ex participate: Ana Souza
                     <p>Eu participei da ONG Vó Maria Felix dos meus 5 anos aos 7, me lembro muito bem de como foi 
                     importante, lá pude aprender muita coisa, tive acesso a um ensino diferenciado, esportes e 
@@ -137,7 +137,9 @@
         <!--Dentro das tags <a href=" ... é colocado o link das redes sociais-->
         <div class="redesSociais" aling="center">
             <h2>Redes sociais</h2>
-            <center><a href="https://www.instagram.com/"><img src="imagens/instagram-logo.png" class="logo" width="50" height="50"></a><a href="https://www.facebook.com/"><img src="imagens/face-logo.png" class="logo" width="50" height="50"></a>
+            <center>
+            <a href="https://www.instagram.com/"><img src="imagens/instagram-logo.png" class="logo" width="50" height="50"></a>
+            <a href="https://www.facebook.com/"><img src="imagens/face-logo.png" class="logo" width="50" height="50"></a>
         </div>
     </fieldset>
 
@@ -146,7 +148,7 @@
         <section id="contato">
             <p>Horário de funcionamento: de Segunda a Sexta, das 7:00h às 17:00h</p>
             <img src="imagens/mail.png">
-            <p>E-mail: <a href=mailto:exemple@ah.br>exemple@ah.br</a></p>
+            <p>E-mail: <a href=mailto:iridium@gmail.com>iridium@gmail.com</a></p>
             <img src="imagens/tel.png">
             <p>Contato: <a href=mailto:(12)12345-6789>(12) 12345-6789</a></p>
         </section>
