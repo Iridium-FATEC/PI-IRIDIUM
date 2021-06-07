@@ -38,8 +38,10 @@ session_start();
     <div class="imagens">
 
         <center><img src="imagens/manual-pt1" width="45%">
-        <center><img src="imagens/manual-pt2" width="35%">
-        <center><img src="imagens/manual-pt3" width="35%">
+        <center><img src="imagens/manual-pt2-1" width="35%">
+        <center><img src="imagens/manual-pt2-2" width="35%">
+        <center><img src="imagens/manual-pt-3" width="35%">
+        <center><img src="imagens/manual-pt4" width="35%">
 
             
     </div>

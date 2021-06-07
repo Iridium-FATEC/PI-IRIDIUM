@@ -158,3 +158,26 @@
 
 
 
+
+
+# Gifs da quarta sprint
+
+
+## formatação e comentario nos codigos 
+
+
+![Ir](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Projeto/P%C3%A1ginas_gifs/comentarios.gif)
+
+
+## manual simplificado de como alterar textos, imagens e criar conta valida para login no admin
+
+
+![Ir](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Projeto/P%C3%A1ginas_gifs/manual.gif)
+
+
+## sistema de login
+
+
+![Ir]()
+
+
