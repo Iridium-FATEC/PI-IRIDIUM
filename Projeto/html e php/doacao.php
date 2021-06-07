@@ -100,12 +100,12 @@ session_start();
             <section id="contato">
                 <p>Horário de funcionamento: de Segunda a Sexta, das 7:00h às 17:00h</p>
                 <img src="imagens/mail.png">
-                <p>E-mail: <a href=mailto:exemple@ah.br>exemple@ah.br</a></p>
+                <p>E-mail: <a href=mailto:iridium@gmail.com>iridium@gmail.com</a></p>
                 <img src="imagens/tel.png">
                 <p>Contato: <a href=mailto:(12)12345-6789>(12) 12345-6789</a></p>
             </section>
         </div>
     </div>
-    </body>
-
+    
+</body>
 </html>

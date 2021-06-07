@@ -64,6 +64,7 @@ session_start();
     
     <div style="padding-top: 1%;">
         <div class="redesSociais" aling="center">
+            <center>
             <a href="https://www.instagram.com/"><img src="imagens/instagram-logo.png" class="logo" width="50" height="50"></a>
             <a href="https://www.facebook.com/"><img src="imagens/face-logo.png" class="logo" width="50" height="50"></a>
         </div>
@@ -72,7 +73,7 @@ session_start();
             <section id="contato">
                 <p>Horário de funcionamento: de Segunda a Sexta, das 7:00h às 17:00h</p>
                 <img src="imagens/mail.png">
-                <p>E-mail: <a href=mailto:exemple@ah.br>exemple@ah.br</a></p>
+                <p>E-mail: <a href=mailto:iridium@gmail.com>iridium@gmail.com</a></p>
                 <img src="imagens/tel.png">
                 <p>Contato: <a href=mailto:(12)12345-6789>(12) 12345-6789</a></p>
             </section>
