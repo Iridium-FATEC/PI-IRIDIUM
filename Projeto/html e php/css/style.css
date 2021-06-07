@@ -249,14 +249,11 @@ header p {
 .vermais {
     display: flex;
     float: left;
-    width: 47.91%;
-    padding: 10px;
-    height: auto;
+
 }
 
 .vermais2 {
     display: flex;
     float: right;
-    width: 47.91%;
-    padding: 10px;
+ 
 }
