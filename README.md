@@ -95,7 +95,7 @@ Visto que uma ONG não tem fins lucrativos e realiza ações solidarias que são
 - sistema de login
 
 
-![gif1]()
+![gif1](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Projeto/P%C3%A1ginas_gifs/login.gif)
 
 
 ## Instruções para rodar o projeto
