@@ -3,7 +3,7 @@
 
 $servidor = "localhost";
 $usuario = "root";
-$senha = "root";
+$senha = "";
 $dbname = "login";
 
 
