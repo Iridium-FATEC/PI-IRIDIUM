@@ -54,7 +54,7 @@ Visto que uma ONG não tem fins lucrativos e realiza ações solidarias que são
 ## Sprint
 ![sprints](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Documentos/Evolu%C3%A7%C3%A3o%20das%20Sprints%20e%20Backlogs/4%20sprint/Sprints%20backlog%204.jpg)
 
-### [(Clique aqui para visualizar a paste com todas as sprints e product backlog)](https://github.com/Iridium-FATEC/PI-IRIDIUM/tree/main/Documentos/Evolu%C3%A7%C3%A3o%20das%20Sprints%20e%20Backlogs)
+### [(Clique aqui para visualizar a pasta com todas as sprints e product backlog)](https://github.com/Iridium-FATEC/PI-IRIDIUM/tree/main/Documentos/Evolu%C3%A7%C3%A3o%20das%20Sprints%20e%20Backlogs)
 
 
 ## Burndown
@@ -100,7 +100,7 @@ Visto que uma ONG não tem fins lucrativos e realiza ações solidarias que são
 
 - video do site finalizado
 
-https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Projeto/P%C3%A1ginas_gifs/2021-06-07%2002-31-58.mp4
+![gif1](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Projeto/P%C3%A1ginas_gifs/site.gif)
 
 
 ## Instruções para rodar o projeto
